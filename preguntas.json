@@ -1,0 +1,595 @@
+[
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Cuál de los siguientes es un principio superior que inspira la Constitución Española?",
+    "options": ["La justicia", "La corrupción", "El desempleo", "La pobreza"],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué establece la Constitución Española respecto al derecho a la salud?",
+    "options": [
+      "El derecho a la salud es un derecho fundamental",
+      "El derecho a la salud es un derecho secundario",
+      "El derecho a la salud está limitado por la economía",
+      "La salud es un derecho que depende de la región"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Quién es el encargado de la defensa de los derechos fundamentales en la Constitución Española?",
+    "options": [
+      "El Tribunal Constitucional",
+      "El Rey",
+      "El Congreso de los Diputados",
+      "El Presidente del Gobierno"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué reconoce la Constitución Española como un derecho fundamental relacionado con la protección de la salud?",
+    "options": [
+      "El acceso universal a la atención sanitaria",
+      "El acceso limitado a medicamentos",
+      "El derecho a la eutanasia",
+      "La elección de especialistas médicos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué principio inspira la distribución de poderes en la Constitución Española?",
+    "options": [
+      "La división de poderes",
+      "La concentración de poderes",
+      "La autarquía política",
+      "La centralización del poder"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Quién ostenta la Jefatura del Estado según la Constitución Española?",
+    "options": [
+      "El Rey",
+      "El Presidente del Gobierno",
+      "El Congreso de los Diputados",
+      "El Tribunal Supremo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué derecho se menciona en la Constitución Española como fundamental en relación con la salud?",
+    "options": [
+      "El derecho a la asistencia sanitaria pública",
+      "El derecho a la educación de calidad",
+      "El derecho a la libertad de expresión",
+      "El derecho a la libertad religiosa"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "La Constitución Española establece que los poderes públicos deben promover:",
+    "options": [
+      "La salud pública",
+      "La privatización de la salud",
+      "El comercio libre",
+      "La censura en la salud"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué establece la Constitución Española sobre los derechos y libertades de los ciudadanos?",
+    "options": [
+      "Son inviolables y deben ser protegidos por los poderes públicos",
+      "Son sujetos a la voluntad del Gobierno",
+      "Son limitados según el contexto social",
+      "Solo se aplican en situaciones de emergencia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "En la Constitución Española, la salud es:",
+    "options": [
+      "Un derecho fundamental",
+      "Un servicio opcional",
+      "Un lujo",
+      "Un derecho que depende de la región"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "Según la Constitución Española, los poderes públicos deben velar por:",
+    "options": [
+      "El bienestar de la ciudadanía",
+      "El enriquecimiento personal",
+      "El control de los medios de comunicación",
+      "La exclusión social"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué establece la Constitución Española en relación con el derecho a la protección de la salud?",
+    "options": [
+      "Es un derecho que debe garantizarse a todos los ciudadanos",
+      "Es un derecho solo para los trabajadores",
+      "Es un derecho que depende del tipo de enfermedad",
+      "Solo se aplica en emergencias sanitarias"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Quién tiene la competencia de regular el derecho a la salud según la Constitución?",
+    "options": [
+      "El Estado y las Comunidades Autónomas",
+      "Solo el Gobierno Central",
+      "El Congreso de los Diputados",
+      "El Tribunal Constitucional"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "El artículo 43 de la Constitución Española trata sobre:",
+    "options": [
+      "El derecho a la protección de la salud",
+      "La libertad de expresión",
+      "El derecho a la educación",
+      "La propiedad intelectual"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué principio constitucional protege la igualdad de todos los ciudadanos?",
+    "options": [
+      "El principio de igualdad",
+      "El principio de jerarquía",
+      "El principio de autonomía",
+      "El principio de justicia distributiva"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué derecho establece la Constitución Española relacionado con la educación?",
+    "options": [
+      "El derecho a la educación gratuita y obligatoria",
+      "El derecho a elegir cualquier tipo de educación",
+      "El derecho a la educación religiosa",
+      "El derecho a una educación privada"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "El derecho a la protección de la salud en la Constitución Española está vinculado a:",
+    "options": [
+      "El bienestar general de los ciudadanos",
+      "La medicina tradicional",
+      "La autonomía médica",
+      "El derecho a no ser atendido en casos urgentes"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué establece la Constitución Española sobre la libertad personal?",
+    "options": [
+      "Que es inviolable y solo puede ser limitada por la ley",
+      "Que puede ser restringida por el Gobierno en cualquier momento",
+      "Que puede ser restringida solo en casos de emergencia sanitaria",
+      "Que no es un derecho absoluto"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué derecho se menciona en la Constitución Española en relación con los menores?",
+    "options": [
+      "El derecho a la protección integral",
+      "El derecho a la educación secundaria obligatoria",
+      "El derecho a la vivienda digna",
+      "El derecho a la movilidad internacional"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Cuál es el propósito del artículo 43 de la Constitución Española?",
+    "options": [
+      "Asegurar la salud pública",
+      "Reglamentar la educación",
+      "Fomentar la cooperación internacional",
+      "Garantizar la libertad religiosa"
+    ],
+    "correct": 0
+  },
+
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "¿Cómo se define la soberanía en la Constitución Española de 1978?",
+    "options": [
+      "Reside en el pueblo español, del que emanan los poderes del Estado",
+      "Reside únicamente en el Rey",
+      "Reside en el Parlamento Europeo",
+      "Reside en las Comunidades Autónomas"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "¿Cuál es la función del Congreso de los Diputados según la Constitución Española?",
+    "options": [
+      "Legislar y controlar al Gobierno",
+      "Ejercer el poder judicial",
+      "Dirigir la política exterior",
+      "Nombrar a los jueces"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "¿Quién es responsable de la formación del Gobierno en España?",
+    "options": [
+      "El Presidente del Gobierno, designado por el Rey",
+      "El Congreso de los Diputados",
+      "El Tribunal Constitucional",
+      "El Senado"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "Según la Constitución, ¿qué forma de gobierno establece España?",
+    "options": [
+      "Una monarquía parlamentaria",
+      "Una república presidencialista",
+      "Una monarquía absoluta",
+      "Una dictadura militar"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "¿Qué poder tiene la capacidad de interpretar la Constitución Española?",
+    "options": [
+      "El Tribunal Constitucional",
+      "El Senado",
+      "El Presidente del Gobierno",
+      "El Congreso de los Diputados"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "¿Qué función tiene el Senado según la Constitución Española?",
+    "options": [
+      "Ejercer funciones de representación territorial",
+      "Legislar en exclusiva",
+      "Controlar el poder judicial",
+      "Ejercer el poder ejecutivo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "Según la Constitución Española, ¿quién tiene la facultad de convocar elecciones generales?",
+    "options": [
+      "El Rey, a propuesta del Presidente del Gobierno",
+      "El Congreso de los Diputados",
+      "El Senado",
+      "El Tribunal Supremo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "¿Qué establece la Constitución Española acerca del poder judicial?",
+    "options": [
+      "Es independiente de los otros poderes del Estado",
+      "Es controlado por el Congreso",
+      "Es supervisado por el Rey",
+      "Está subordinado al Gobierno"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "¿Qué se entiende por el principio de división de poderes en la Constitución Española?",
+    "options": [
+      "La separación e independencia de los poderes Ejecutivo, Legislativo y Judicial",
+      "El control absoluto del Ejecutivo sobre el Legislativo",
+      "La concentración de todos los poderes en el Congreso",
+      "La subordinación del Judicial al Ejecutivo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
+    "question": "Según la Constitución, el poder ejecutivo se encuentra representado por:",
+    "options": [
+      "El Presidente del Gobierno y su gabinete",
+      "El Tribunal Constitucional",
+      "El Congreso de los Diputados",
+      "El Rey y el Senado"
+    ],
+    "correct": 0
+  },
+
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "¿Qué artículo de la Constitución Española regula el derecho a la protección de la salud?",
+    "options": ["Artículo 43", "Artículo 14", "Artículo 20", "Artículo 33"],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "Según la Constitución Española, el derecho a la protección de la salud es:",
+    "options": [
+      "Un derecho fundamental",
+      "Un derecho secundario",
+      "Un derecho opcional",
+      "Un derecho no reconocido"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "¿Qué obligación tienen los poderes públicos según el artículo 43 de la Constitución Española?",
+    "options": [
+      "Promover la salud pública",
+      "Garantizar la libertad de prensa",
+      "Regular la educación",
+      "Controlar la actividad económica"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "¿Quién tiene la responsabilidad de garantizar la atención sanitaria pública en España?",
+    "options": [
+      "El Estado y las Comunidades Autónomas",
+      "Solo el Gobierno Central",
+      "El Tribunal Supremo",
+      "El Senado"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "El derecho a la protección de la salud en España incluye:",
+    "options": [
+      "El acceso universal a la asistencia sanitaria",
+      "La elección libre de médicos privados",
+      "El derecho a obtener medicamentos gratuitos",
+      "El derecho a elegir hospital privado"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "¿Qué implicaciones tiene el derecho a la protección de la salud según la Constitución Española?",
+    "options": [
+      "Implica el derecho a la atención sanitaria en condiciones de igualdad",
+      "Implica la limitación de los servicios sanitarios en función de la economía",
+      "Implica la privatización de los servicios médicos",
+      "Implica la exclusión de servicios para extranjeros"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "¿Cómo regula la Constitución Española el derecho a la protección de la salud para las personas con discapacidad?",
+    "options": [
+      "Garantiza la igualdad de acceso a la atención sanitaria",
+      "Limita el acceso a servicios de salud especializados",
+      "Deja a las Comunidades Autónomas decidir el acceso a la salud",
+      "No menciona ningún aspecto relacionado con la discapacidad"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "Según la Constitución Española, el derecho a la protección de la salud debe ser:",
+    "options": [
+      "Garantizado por los poderes públicos en igualdad de condiciones para todos los ciudadanos",
+      "Garantizado solo a los ciudadanos con empleo",
+      "Ofrecido de forma gratuita solo a los niños",
+      "Garantizado solo en situaciones de emergencia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "El artículo 43 de la Constitución Española establece que los poderes públicos deben fomentar:",
+    "options": [
+      "La mejora de la salud pública",
+      "La privatización de la sanidad",
+      "La competencia entre hospitales privados",
+      "La descentralización de la atención sanitaria"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
+    "question": "¿Qué condiciones establece la Constitución Española para la protección de la salud?",
+    "options": [
+      "Deben ser adecuadas y basadas en los avances científicos",
+      "Solo deben aplicarse en situaciones de alta crisis",
+      "Deben estar limitadas a los ciudadanos españoles",
+      "Solo deben garantizarse a las personas mayores"
+    ],
+    "correct": 0
+  },
+
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "¿Qué establece el artículo 14 de la Constitución Española?",
+    "options": [
+      "Que todos los españoles son iguales ante la ley",
+      "Que los ciudadanos deben pagar impuestos según su salario",
+      "Que todos los ciudadanos tienen derecho a elegir su vivienda",
+      "Que los extranjeros no pueden ser discriminados por su nacionalidad"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "Según el artículo 14 de la Constitución Española, ¿en qué situaciones está prohibida la discriminación?",
+    "options": [
+      "Por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social",
+      "Solo por razón de sexo",
+      "Solo por razones económicas",
+      "Por razones de edad"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "¿Qué derecho garantiza la Constitución Española en relación con la igualdad?",
+    "options": [
+      "La igualdad ante la ley y la no discriminación por razones de cualquier índole",
+      "El derecho a la propiedad privada",
+      "El derecho a un juicio justo",
+      "La igualdad en el acceso al empleo público"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "¿Qué implica la igualdad ante la ley según la Constitución Española?",
+    "options": [
+      "Que no puede haber privilegios ni discriminación de ninguna clase",
+      "Que las leyes no deben aplicarse a todas las personas de igual forma",
+      "Que solo los ciudadanos con mayor poder político tienen derechos",
+      "Que los derechos se aplican solo a los ciudadanos de mayor edad"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "El principio de igualdad y no discriminación se aplica a:",
+    "options": [
+      "Todos los ciudadanos sin distinción alguna",
+      "Solo a los ciudadanos con empleo",
+      "Solo a los hombres",
+      "Solo a los ciudadanos que vivan en áreas urbanas"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "¿Qué reconoce la Constitución Española en relación con la mujer y la igualdad?",
+    "options": [
+      "La igualdad de derechos y oportunidades para hombres y mujeres",
+      "La preferencia del hombre en el ámbito laboral",
+      "La igualdad solo en cuanto a la educación",
+      "Que las mujeres no tienen derecho al voto"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "¿Qué medidas deben tomar los poderes públicos para asegurar la igualdad?",
+    "options": [
+      "Promover políticas de igualdad en todos los ámbitos de la vida",
+      "Eliminar todos los impuestos",
+      "Fomentar la desigualdad económica",
+      "Reforzar los derechos de los hombres por encima de los de las mujeres"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "El principio de igualdad recogido en la Constitución Española también implica:",
+    "options": [
+      "El acceso igualitario a la educación, la cultura, y el empleo",
+      "La preferencia de una religión sobre otras",
+      "El derecho a que solo los ricos accedan a servicios públicos",
+      "La discriminación positiva hacia personas con poder político"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "¿Qué establece la Constitución en relación con la discriminación por razón de sexo?",
+    "options": [
+      "Está prohibida y se deben adoptar medidas para erradicarla",
+      "Es permisible en algunos casos laborales",
+      "Se tolera en ámbitos sociales, pero no laborales",
+      "Es permitida solo en el ámbito político"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Tema 1",
+    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
+    "question": "Según la Constitución Española, ¿qué principio se aplica en la interpretación de las leyes?",
+    "options": [
+      "La igualdad ante la ley y la no discriminación",
+      "La protección de la propiedad privada",
+      "La interpretación de las leyes en función de la clase social",
+      "La aplicación de las leyes solo en situaciones de emergencia"
+    ],
+    "correct": 0
+  }
+]
