@@ -7,6 +7,7 @@ import ScoreBoard from './components/ScoreBoard';
 import LoadQuestions from './components/LoadQuestions';
 import PasswordPrompt from './components/PasswordPrompt';
 
+
 function App() {
   const [showIntro, setShowIntro] = useState(true);
 
@@ -30,6 +31,7 @@ function App() {
         <Route path="/scores" element={<ScoreBoard />} />
         <Route path="/load" element={<LoadQuestions />} />
         <Route path="/password" element={<PasswordPrompt />} />
+
       </Routes>
     </div>
   );

@@ -53,38 +53,38 @@ export default function ScoreBoard() {
           </div>
         ) : (
           <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-xl overflow-hidden">
-            <div className="grid grid-cols-6 gap-4 p-4 border-b border-white border-opacity-20 text-white font-bold">
-              <div>Categoría</div>
-              <div>Tema</div>
-              <div>Puntuación</div>
-              <div>Total</div>
-              <div>Fecha</div>
-              <div>Eliminar</div> {/* Columna para el botón de eliminar */}
+            <div className="grid grid-cols-6 gap-x-12 p-6 border-b border-white border-opacity-20 text-white font-bold text-lg items-center">
+              <div className="text-center">Categoría</div>
+              <div className="text-center" >Tema</div>
+              <div className="text-center">Puntuación</div>
+              <div className="text-center">Total</div>
+              <div className="text-center">Fecha</div>
+              <div className="text-center">Eliminar</div>
             </div>
+
             {scores.map((score, index) => (
               <motion.div
                 key={index}
                 initial={{ opacity: 0, x: -20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: index * 0.1 }}
-                className="grid grid-cols-6 gap-4 p-4 text-white hover:bg-white hover:bg-opacity-5 transition-colors relative"
+                className="grid grid-cols-6 gap-x-12 p-6 text-white hover:bg-white hover:bg-opacity-5 transition-colors relative"
               >
-                <div>{score.category}</div>
-                <div>{score.topic}</div>
-                <div>{score.score}</div> {/* Muestra la puntuación correctamente */}
-                <div>{score.total}</div>
-                <div>{score.date}</div>
-                <div className="grid"> {/* Ícono a la derecha */}
+                <div className="text-center">{score.category}</div>
+                <div className="text-center">{score.topic}</div>
+                <div className="text-center">{score.score}</div>
+                <div className="text-center">{score.total}</div>
+                <div className="text-center">{score.date}</div>
+                <div className="flex justify-center">
                   <button
-                    onClick={() => handleDelete(index)} // Elimina el registro correspondiente
+                    onClick={() => handleDelete(index)}
                     className="text-red-500 hover:text-red-300"
                   >
-                    <Trash2 className="w-6 h-6" /> {/* Ícono de papelera */}
+                    <Trash2 className="w-6 h-6" />
                   </button>
                 </div>
               </motion.div>
             ))}
-
           </div>
         )}
       </motion.div>

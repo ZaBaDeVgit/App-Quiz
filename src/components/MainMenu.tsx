@@ -1,8 +1,7 @@
-// MainMenu.tsx
-
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import { Brain, Trophy, Upload } from 'lucide-react';
+import { useEffect } from 'react';
 
 export default function MainMenu() {
   const navigate = useNavigate();
@@ -10,8 +9,32 @@ export default function MainMenu() {
   const buttons = [
     { icon: Brain, text: 'Test', path: '/test', color: 'from-purple-600 to-blue-600' },
     { icon: Trophy, text: 'Puntuación', path: '/scores', color: 'from-green-600 to-teal-600' },
-    { icon: Upload, text: 'Carga', path: '/password', color: 'from-orange-600 to-red-600' } // Redirigir al componente de contraseña
+    { icon: Upload, text: 'Carga', path: '/password', color: 'from-orange-600 to-red-600' },
   ];
+
+  useEffect(() => {
+    // Cargar el script de Ko-fi
+    const script = document.createElement('script');
+    script.src = 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js';
+    script.async = true;
+    document.body.appendChild(script);
+
+    script.onload = () => {
+      if (window.kofiWidgetOverlay) {
+        window.kofiWidgetOverlay.draw('zabadev', {
+          'type': 'floating-chat',
+          'floating-chat.donateButton.text': 'Donacion',
+          'floating-chat.donateButton.background-color': '#00b9fe',
+          'floating-chat.donateButton.text-color': '#fff',
+        });
+      }
+    };
+
+    // Limpiar el script cuando el componente se desmonte
+    return () => {
+      document.body.removeChild(script);
+    };
+  }, []);
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-8 sm:p-6 md:p-8">

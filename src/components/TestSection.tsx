@@ -4,6 +4,7 @@ import { ArrowLeft, Clock } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { Categories, Question, TestResult } from '../types';
 import { saveTestResult } from '../utils/storage';
+import Swal from 'sweetalert2';
 
 export default function TestSection() {
   const navigate = useNavigate();
@@ -18,7 +19,7 @@ export default function TestSection() {
   const [categories, setCategories] = useState<Categories>({});
   const [answered, setAnswered] = useState(false);
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
-  const [incorrectAnswer, setIncorrectAnswer] = useState<number | null>(null); // New state for incorrect answer
+  const [incorrectAnswer, setIncorrectAnswer] = useState<number | null>(null);
 
   const getFilteredQuestions = (category: string, topic: string) => {
     return questions.filter((question) => {
@@ -84,7 +85,12 @@ export default function TestSection() {
     const filteredQuestions = getFilteredQuestions(selectedCategory, selectedTopic);
 
     if (filteredQuestions.length === 0) {
-      alert('No hay preguntas disponibles para esta categoría y tema');
+      Swal.fire({
+        icon: 'error',
+        title: 'No hay preguntas disponibles',
+        text: 'No hay preguntas para esta categoría y tema.',
+        confirmButtonText: 'Aceptar'
+      });
       return;
     }
 
@@ -152,11 +158,15 @@ export default function TestSection() {
                 <select
                   value={selectedCategory}
                   onChange={(e) => setSelectedCategory(e.target.value)}
-                  className="w-full p-4 rounded-2xl bg-white text-black shadow-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition-all"
+                  className="w-full p-4 rounded-2xl bg-white text-black shadow-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition-all text-lg"
                 >
                   <option value="">Selecciona una categoría</option>
                   {Object.keys(categories).map((cat) => (
-                    <option key={cat} value={cat}>
+                    <option
+                      key={cat}
+                      value={cat}
+                      className="bg-white text-black hover:bg-purple-200"
+                    >
                       {cat}
                     </option>
                   ))}
@@ -168,12 +178,16 @@ export default function TestSection() {
                 <select
                   value={selectedTopic}
                   onChange={(e) => setSelectedTopic(e.target.value)}
-                  className="w-full p-4 rounded-2xl bg-white text-black shadow-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition-all"
+                  className="w-full p-4 rounded-2xl bg-white text-black shadow-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition-all text-lg"
                 >
                   <option value="">Selecciona un tema</option>
                   {selectedCategory &&
                     categories[selectedCategory]?.map((topic, index) => (
-                      <option key={index} value={topic}>
+                      <option
+                        key={index}
+                        value={topic}
+                        className="bg-white text-black hover:bg-purple-200"
+                      >
                         {topic}
                       </option>
                     ))}
