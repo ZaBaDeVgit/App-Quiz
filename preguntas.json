@@ -1,595 +1,3178 @@
 [
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Cuál de los siguientes es un principio superior que inspira la Constitución Española?",
-    "options": ["La justicia", "La corrupción", "El desempleo", "La pobreza"],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué establece la Constitución Española respecto al derecho a la salud?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué establece la Constitución Española respecto al derecho a la protección de la salud?",
     "options": [
-      "El derecho a la salud es un derecho fundamental",
-      "El derecho a la salud es un derecho secundario",
-      "El derecho a la salud está limitado por la economía",
-      "La salud es un derecho que depende de la región"
+      "Es un derecho fundamental",
+      "Es un derecho opcional",
+      "Es un derecho que depende del estado de salud",
+      "Es un derecho económico"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Quién es el encargado de la defensa de los derechos fundamentales en la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Cuál de los siguientes es un valor superior que inspira la Constitución Española de 1978?",
     "options": [
-      "El Tribunal Constitucional",
+      "La igualdad",
+      "La opresión",
+      "El autoritarismo",
+      "El individualismo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué derecho establece la Constitución Española para la protección de la salud?",
+    "options": [
+      "El derecho a la salud pública",
+      "El derecho a la atención sanitaria gratuita",
+      "El derecho a la protección de la salud",
+      "El derecho a la prevención de enfermedades"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué institución ejerce la Jefatura del Estado según la Constitución Española?",
+    "options": [
+      "El Congreso de los Diputados",
+      "El Rey",
+      "El Senado",
+      "El Gobierno"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "Según la Constitución Española, ¿quién asume el poder ejecutivo en España?",
+    "options": ["El Rey", "El Congreso", "El Gobierno", "El Senado"],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿A qué se refiere el principio de 'universalidad' en la Constitución Española?",
+    "options": [
+      "El derecho a la educación para todos",
+      "El derecho a la salud para todos",
+      "El derecho a la libertad de expresión",
+      "El derecho a la propiedad privada"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué figura representa al Estado español en la Constitución de 1978?",
+    "options": [
+      "El Rey",
+      "El Presidente del Gobierno",
+      "El Presidente del Congreso",
+      "El Ministro de Justicia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué principio se establece para la organización de los poderes públicos en la Constitución Española?",
+    "options": [
+      "Separación de poderes",
+      "Soberanía popular",
+      "Centralismo administrativo",
+      "Autonomía territorial"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué se establece sobre la división del poder en la Constitución Española?",
+    "options": [
+      "Existen tres poderes: legislativo, ejecutivo y judicial",
+      "El poder ejecutivo es el más fuerte",
+      "El poder judicial controla el ejecutivo",
+      "La división del poder es solo teórica"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "Según la Constitución Española, ¿cuál es la base del sistema político en España?",
+    "options": [
+      "La monarquía",
+      "La democracia representativa",
+      "El autoritarismo",
+      "El comunismo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué derecho fundamental se contempla en la Constitución Española relacionado con la salud?",
+    "options": [
+      "El derecho a una vivienda digna",
+      "El derecho al trabajo",
+      "El derecho a la educación",
+      "El derecho a la protección de la salud"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Quién designa al presidente del Gobierno en España según la Constitución?",
+    "options": [
+      "El Senado",
       "El Rey",
       "El Congreso de los Diputados",
+      "El Tribunal Constitucional"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "Según la Constitución Española, ¿cómo se organiza el Estado?",
+    "options": [
+      "En un sistema de monarquía absoluta",
+      "En un sistema parlamentario",
+      "En un sistema federal",
+      "En un sistema autonómico y descentralizado"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué principio inspirador de la Constitución se refiere a la convivencia pacífica entre los ciudadanos?",
+    "options": [
+      "La libertad",
+      "La justicia",
+      "La solidaridad",
+      "La convivencia"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿En qué capítulo de la Constitución Española se regula el derecho a la protección de la salud?",
+    "options": ["Capítulo I", "Capítulo II", "Capítulo III", "Capítulo IV"],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué organismo tiene la capacidad de disolver las Cortes Generales en caso de necesidad según la Constitución Española?",
+    "options": ["El Rey", "El Congreso", "El Senado", "El Gobierno"],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Cuál es el principio básico de la organización política según la Constitución Española?",
+    "options": [
+      "La monarquía parlamentaria",
+      "La soberanía popular",
+      "El federalismo",
+      "La unidad del Estado"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué principio constitucional se refiere al respeto por la dignidad de las personas?",
+    "options": [
+      "La justicia",
+      "La libertad",
+      "La igualdad",
+      "El respeto a la dignidad humana"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué valor fundamental recoge la Constitución Española?",
+    "options": [
+      "La competitividad",
+      "La libertad",
+      "El despotismo",
+      "La discriminación"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué se entiende por 'derechos fundamentales' en la Constitución Española?",
+    "options": [
+      "Son derechos que protegen la libertad y la igualdad",
+      "Son derechos relacionados solo con la salud",
+      "Son derechos limitados por el poder judicial",
+      "Son derechos no reconocidos por la ley"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué principio rige la organización territorial del Estado según la Constitución?",
+    "options": [
+      "El centralismo",
+      "El federalismo",
+      "La autonomía de las Comunidades Autónomas",
+      "La supremacía del Estado"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué derecho tiene toda persona según la Constitución Española?",
+    "options": [
+      "El derecho a la educación",
+      "El derecho a la salud",
+      "El derecho a la propiedad",
+      "El derecho a la seguridad social"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿En qué parte de la Constitución se habla de los derechos fundamentales y libertades públicas?",
+    "options": [
+      "En el Preámbulo",
+      "En el Título I",
+      "En el Título II",
+      "En el Título III"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Quién es el máximo representante del Poder Judicial según la Constitución Española?",
+    "options": [
+      "El Rey",
+      "El Presidente del Gobierno",
+      "El Tribunal Constitucional",
+      "El Consejo General del Poder Judicial"
+    ],
+    "correct": 3
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Cuál de los siguientes derechos es considerado un derecho fundamental según la Constitución Española?",
+    "options": [
+      "Derecho a la vivienda",
+      "Derecho a la protección de la salud",
+      "Derecho al ocio",
+      "Derecho al consumo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué garantiza la Constitución Española con respecto al derecho a la salud?",
+    "options": [
+      "Acceso gratuito a todos los tratamientos médicos",
+      "Protección de la salud como un derecho básico",
+      "Salud solo para los trabajadores",
+      "Atención sanitaria solo en situaciones de emergencia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué tipo de gobierno establece la Constitución Española?",
+    "options": [
+      "Gobierno autoritario",
+      "Gobierno parlamentario",
+      "Gobierno democrático y representativo",
+      "Gobierno militar"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué poder tiene el Congreso de los Diputados según la Constitución?",
+    "options": ["Ejecutivo", "Legislativo", "Judicial", "Eclesiástico"],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "Según la Constitución, ¿quién elige al presidente del Gobierno en España?",
+    "options": [
+      "El Rey",
+      "Los ciudadanos por votación",
+      "El Congreso de los Diputados",
+      "El Senado"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué establece la Constitución Española sobre la organización territorial del Estado?",
+    "options": [
+      "Es un Estado unitario",
+      "Es un Estado centralista",
+      "Es un Estado autónomo con comunidades autónomas",
+      "Es un Estado federal"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Cuál es la función principal del Tribunal Constitucional?",
+    "options": [
+      "Controlar la legislación del Congreso",
+      "Juzgar los delitos de los ciudadanos",
+      "Garantizar la constitución y los derechos fundamentales",
+      "Elegir al presidente del Gobierno"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué principio de la Constitución establece que todos los ciudadanos son iguales ante la ley?",
+    "options": [
+      "El principio de igualdad",
+      "El principio de libertad",
+      "El principio de no discriminación",
+      "El principio de autonomía"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "Según la Constitución, ¿qué tipo de derechos son los derechos fundamentales?",
+    "options": [
+      "Derechos políticos y sociales",
+      "Derechos humanos básicos",
+      "Derechos económicos",
+      "Derechos temporales"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué establece la Constitución sobre el derecho a la educación?",
+    "options": [
+      "Es un derecho de los ciudadanos solo en la educación superior",
+      "Es un derecho solo en la educación pública",
+      "Es un derecho que debe ser garantizado por el Estado",
+      "Es un derecho solo para los ciudadanos con recursos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué establece la Constitución Española sobre el derecho al voto?",
+    "options": [
+      "Es un derecho solo para los mayores de 35 años",
+      "Es un derecho exclusivo para varones",
+      "Es un derecho universal para todos los ciudadanos mayores de 18 años",
+      "Es un derecho solo para ciudadanos que pertenecen a partidos políticos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "Según la Constitución, ¿cómo se asegura el derecho a la libertad de expresión?",
+    "options": [
+      "A través de censura previa",
+      "A través de una ley que limita los medios de comunicación",
+      "A través de la libertad de prensa y expresión",
+      "A través del control gubernamental"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Cuál es el objetivo principal del principio de separación de poderes?",
+    "options": [
+      "Limitar el poder del rey",
+      "Prevenir abusos de poder",
+      "Asegurar que el presidente del Gobierno controle todos los poderes",
+      "Concentrar los poderes del Estado en el Congreso"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué se entiende por la 'soberanía nacional' según la Constitución Española?",
+    "options": [
+      "El poder exclusivo del rey",
+      "El poder de los ciudadanos a través del voto",
+      "El poder de los partidos políticos",
+      "El poder del Senado y el Congreso juntos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "¿Qué principio establece la Constitución Española respecto a la inviolabilidad de los derechos fundamentales?",
+    "options": [
+      "Que los derechos fundamentales pueden ser suspendidos por el Gobierno",
+      "Que los derechos fundamentales son inviolables y no pueden ser suspendidos",
+      "Que los derechos fundamentales pueden ser modificados por el Parlamento",
+      "Que los derechos fundamentales solo se aplican en tiempo de paz"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 1 -> La Constitución Española de 1978. Valores superiores y principios inspiradores.",
+    "question": "Según la Constitución Española, ¿qué derecho tiene toda persona frente a los tribunales?",
+    "options": [
+      "Derecho a ser juzgado por un tribunal competente",
+      "Derecho a no ser juzgado",
+      "Derecho a que el juicio sea secreto",
+      "Derecho a elegir al juez"
+    ],
+    "correct": 0
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Cuál es el objetivo principal del Título Preliminar del Estatuto de Autonomía para Andalucía?",
+    "options": [
+      "Regular los derechos y deberes de los ciudadanos",
+      "Establecer las competencias autonómicas",
+      "Definir la identidad de Andalucía y su organización política",
+      "Organizar las relaciones internacionales de la Comunidad Autónoma"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "Según el Título Preliminar, ¿cómo define el Estatuto de Autonomía a Andalucía?",
+    "options": [
+      "Como una comunidad autónoma",
+      "Como una región con autonomía",
+      "Como una nación histórica",
+      "Como una entidad política independiente"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué establece el Título I del Estatuto de Autonomía para Andalucía en cuanto a los derechos sociales?",
+    "options": [
+      "Garantiza la igualdad de derechos entre ciudadanos",
+      "Los derechos sociales son solo aplicables en la sanidad",
+      "Reconoce derechos específicos de la Comunidad Autónoma en la educación, sanidad y servicios sociales",
+      "Define los derechos solo en el ámbito económico"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Cuál de los siguientes derechos no está incluido en el Título I del Estatuto de Autonomía para Andalucía?",
+    "options": [
+      "Derecho a la educación",
+      "Derecho a la sanidad",
+      "Derecho a la vivienda",
+      "Derecho a la libertad de expresión"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "En el Título II del Estatuto de Autonomía para Andalucía, ¿qué competencias se asignan a la Comunidad Autónoma en materia de salud?",
+    "options": [
+      "Organizar la atención sanitaria",
+      "Establecer las políticas de salud pública",
+      "Regular los servicios privados de salud",
+      "Ambas anteriores"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "En cuanto a las competencias en materia de sanidad, ¿qué capacidad tiene la Comunidad Autónoma de Andalucía según el Estatuto?",
+    "options": [
+      "Ejercer competencias exclusivas en salud pública",
+      "Gestionar la seguridad social",
+      "Desarrollar políticas educativas",
+      "Controlar la sanidad nacional"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué establece el Título IV del Estatuto de Autonomía para Andalucía?",
+    "options": [
+      "La organización del sistema sanitario",
+      "La organización institucional de la Comunidad Autónoma",
+      "La financiación autonómica",
+      "Las políticas sociales de bienestar"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué órganos forman parte de la organización institucional de la Comunidad Autónoma según el Título IV?",
+    "options": [
+      "El Parlamento de Andalucía, la Junta de Andalucía y el Presidente",
+      "El Parlamento de Andalucía y la Diputación Provincial",
+      "El Congreso de los Diputados y el Senado",
+      "La Generalitat y el Gobierno Autonómico"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿A qué se refiere el Título I del Estatuto de Autonomía para Andalucía en cuanto a los deberes de los ciudadanos?",
+    "options": [
+      "A los deberes fiscales y cívicos",
+      "A la obligación de votar en elecciones",
+      "A la obligación de respetar las leyes",
+      "A los deberes laborales"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "En relación con la salud, ¿qué competencia tiene Andalucía según el Título II?",
+    "options": [
+      "Desarrollar la ley de sanidad pública",
+      "Ejercer competencias exclusivas en la regulación del mercado farmacéutico",
+      "Regular y coordinar los recursos de salud pública",
+      "Gestionar los hospitales privados"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué menciona el Título IV en relación con el Gobierno de Andalucía?",
+    "options": [
+      "La autonomía financiera",
+      "La estructura y competencias del Gobierno",
+      "El control de la actividad judicial",
+      "El control del sector privado"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿En qué se distingue la Ley Orgánica 2/2007 respecto a la anterior del Estatuto de Autonomía para Andalucía?",
+    "options": [
+      "En que refuerza la autonomía en la gestión sanitaria y de bienestar",
+      "En que elimina las competencias autonómicas en educación",
+      "En que crea una nueva entidad administrativa",
+      "En que limita los derechos sociales en la región"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Cómo se describe la relación entre el Parlamento de Andalucía y la Junta de Andalucía según el Título IV?",
+    "options": [
+      "La Junta es el órgano legislativo y el Parlamento el ejecutivo",
+      "El Parlamento controla la actividad de la Junta",
+      "La Junta controla la actividad del Parlamento",
+      "Ambos tienen poderes legislativos y ejecutivos equivalentes"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué principio establece el Título I con respecto al bienestar social de los ciudadanos?",
+    "options": [
+      "Que la asistencia social es responsabilidad del sector privado",
+      "Que el bienestar social depende exclusivamente del gobierno central",
+      "Que el bienestar social es responsabilidad compartida entre el Gobierno de Andalucía y el Estado",
+      "Que el bienestar social es un derecho exclusivo del ciudadano"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "En relación con la sanidad, ¿qué función tiene la Junta de Andalucía según el Estatuto?",
+    "options": [
+      "Garantizar la calidad de los productos farmacéuticos",
+      "Desarrollar e implementar políticas públicas en el ámbito sanitario",
+      "Ejecutar las políticas de salud pública del Gobierno central",
+      "Regular los servicios privados de salud"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué garantiza la Constitución respecto a los derechos fundamentales y el Estatuto de Autonomía para Andalucía?",
+    "options": [
+      "Que los derechos son ajustados por cada comunidad autónoma",
+      "Que los derechos se limitan a lo que estipula cada estatuto",
+      "Que los derechos fundamentales están garantizados por el Estado y las autonomías",
+      "Que solo el Gobierno de España puede garantizar los derechos fundamentales"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué establece el Título IV con respecto al control judicial en la Comunidad Autónoma?",
+    "options": [
+      "La comunidad autónoma no tiene control judicial",
+      "El control judicial es competencia exclusiva del Gobierno de Andalucía",
+      "La comunidad autónoma tiene sus propios tribunales",
+      "La comunidad autónoma se rige por el sistema judicial del Estado"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿En qué parte del Estatuto se definen las políticas públicas en materia de salud?",
+    "options": [
+      "En el Título II",
+      "En el Título I",
+      "En el Título IV",
+      "En el Título Preliminar"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué derecho se menciona específicamente en el Título I del Estatuto de Autonomía para Andalucía?",
+    "options": [
+      "Derecho al trabajo",
+      "Derecho a la vivienda digna",
+      "Derecho a la educación",
+      "Derecho a la salud"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué se menciona en el Título II sobre las competencias autonómicas en el sector farmacéutico?",
+    "options": [
+      "La Comunidad Autónoma tiene competencias exclusivas",
+      "La Comunidad Autónoma tiene competencias compartidas",
+      "La Comunidad Autónoma no tiene competencias",
+      "La Comunidad Autónoma regula solo el precio de los medicamentos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Cómo se organiza el poder ejecutivo en Andalucía según el Estatuto?",
+    "options": [
+      "Está a cargo del Parlamento",
+      "Está a cargo de la Junta de Andalucía",
+      "Está a cargo de los Tribunales",
+      "Está a cargo de los Consejos Provinciales"
+    ],
+    "correct": 1
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "Según el Título II, ¿qué competencias tiene Andalucía en materia de salud pública?",
+    "options": [
+      "Gestionar los recursos de salud pública",
+      "Promover la salud mental",
+      "Regular la seguridad social",
+      "Regular los precios de los medicamentos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Cuál de los siguientes derechos está garantizado en el Título I del Estatuto de Autonomía para Andalucía?",
+    "options": [
+      "Derecho al trabajo digno",
+      "Derecho a la vivienda",
+      "Derecho a la salud",
+      "Derecho a la educación de calidad"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué órgano es responsable de la ejecución de las políticas públicas de bienestar en Andalucía?",
+    "options": [
+      "La Junta de Andalucía",
+      "El Parlamento de Andalucía",
+      "El Tribunal Superior de Justicia de Andalucía",
       "El Presidente del Gobierno"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué reconoce la Constitución Española como un derecho fundamental relacionado con la protección de la salud?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "Según el Estatuto, ¿qué competencias tiene Andalucía en materia de políticas de salud?",
     "options": [
-      "El acceso universal a la atención sanitaria",
-      "El acceso limitado a medicamentos",
-      "El derecho a la eutanasia",
-      "La elección de especialistas médicos"
+      "El desarrollo de políticas en salud mental",
+      "La regulación del sistema sanitario",
+      "La gestión de los centros privados de salud",
+      "La organización de los recursos del sistema sanitario"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Cómo define el Título IV la estructura del Gobierno de Andalucía?",
+    "options": [
+      "Como una estructura centralizada",
+      "Como un sistema federal",
+      "Como un sistema descentralizado con un parlamento y un ejecutivo",
+      "Como un sistema independiente"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "En cuanto a las competencias en sanidad, ¿qué capacidad tiene Andalucía según el Estatuto?",
+    "options": [
+      "Ejercer competencias exclusivas en la organización de los servicios de salud",
+      "Gestionar las políticas sanitarias de los municipios",
+      "Regular las clínicas privadas de salud",
+      "Coordinar las políticas nacionales de salud"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué principio inspira la distribución de poderes en la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué se regula en el Título II del Estatuto de Autonomía para Andalucía?",
     "options": [
-      "La división de poderes",
-      "La concentración de poderes",
-      "La autarquía política",
-      "La centralización del poder"
+      "Las competencias autonómicas en el sector educativo",
+      "Las competencias en sanidad, farmacia y salud pública",
+      "El desarrollo de infraestructuras públicas",
+      "La gestión de los recursos naturales de Andalucía"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Quién tiene la competencia para la legislación sanitaria en Andalucía?",
+    "options": [
+      "El Parlamento de Andalucía",
+      "El Presidente de la Junta de Andalucía",
+      "El Gobierno de España",
+      "Los tribunales autonómicos"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Quién ostenta la Jefatura del Estado según la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "En el Título IV, ¿qué se dice sobre la organización institucional de la Comunidad Autónoma?",
     "options": [
-      "El Rey",
-      "El Presidente del Gobierno",
-      "El Congreso de los Diputados",
-      "El Tribunal Supremo"
+      "Que tiene una estructura monárquica",
+      "Que tiene un Parlamento y un gobierno autónomos",
+      "Que depende exclusivamente del Gobierno central",
+      "Que se organiza sin ninguna institución propia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué define el Título Preliminar en relación con los derechos de los andaluces?",
+    "options": [
+      "Que se garantizan los derechos fundamentales según la ley",
+      "Que los derechos de los ciudadanos de Andalucía se ajustan a la legislación europea",
+      "Que los derechos de los ciudadanos son definidos exclusivamente por el Gobierno de Andalucía",
+      "Que los derechos de los ciudadanos no están regulados"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué derecho se menciona en la Constitución Española como fundamental en relación con la salud?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "Según el Título I del Estatuto, ¿qué se garantiza en cuanto a la igualdad de derechos?",
     "options": [
-      "El derecho a la asistencia sanitaria pública",
-      "El derecho a la educación de calidad",
-      "El derecho a la libertad de expresión",
-      "El derecho a la libertad religiosa"
+      "La igualdad en el acceso al empleo público",
+      "La igualdad de derechos laborales",
+      "La igualdad en el acceso a la educación y la salud",
+      "La igualdad de derechos económicos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Cuál es la principal responsabilidad del Gobierno de Andalucía según el Título IV?",
+    "options": [
+      "La gestión de la economía autonómica",
+      "La ejecución de las políticas públicas aprobadas por el Parlamento",
+      "El control de las actividades judiciales",
+      "La regulación del mercado laboral"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "En el Título II, ¿qué se menciona sobre las competencias de la Comunidad Autónoma en materia de farmacia?",
+    "options": [
+      "Que tiene competencias exclusivas para regular la venta de medicamentos",
+      "Que tiene competencias en la planificación de la política farmacéutica",
+      "Que no tiene competencias en farmacia",
+      "Que solo puede regular los precios de los medicamentos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Cómo se organiza el Parlamento de Andalucía según el Título IV?",
+    "options": [
+      "Como una cámara única elegida por sufragio universal",
+      "Como una cámara bicameral elegida por los parlamentos provinciales",
+      "Como una cámara con representación de las comunidades autónomas vecinas",
+      "Como una cámara exclusiva del Gobierno de Andalucía"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "La Constitución Española establece que los poderes públicos deben promover:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué garantiza el Título I respecto a la protección social en Andalucía?",
     "options": [
-      "La salud pública",
-      "La privatización de la salud",
-      "El comercio libre",
-      "La censura en la salud"
+      "La protección solo en situaciones de desempleo",
+      "La protección a través del sistema sanitario y educativo",
+      "La protección solo para los ciudadanos de la UE",
+      "La protección solo en situaciones de emergencia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué derecho relacionado con la salud está garantizado por el Estatuto de Autonomía para Andalucía?",
+    "options": [
+      "Derecho a la asistencia sanitaria pública",
+      "Derecho a la atención sanitaria privada",
+      "Derecho a la libre elección de centro sanitario",
+      "Derecho a la sanidad solo para los residentes en Andalucía"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué establece la Constitución Española sobre los derechos y libertades de los ciudadanos?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué poder tiene la Comunidad Autónoma en cuanto a la gestión de la salud pública?",
     "options": [
-      "Son inviolables y deben ser protegidos por los poderes públicos",
-      "Son sujetos a la voluntad del Gobierno",
-      "Son limitados según el contexto social",
-      "Solo se aplican en situaciones de emergencia"
+      "La Comunidad Autónoma tiene competencias exclusivas en el ámbito de la sanidad privada",
+      "La Comunidad Autónoma solo puede asesorar al Gobierno central",
+      "La Comunidad Autónoma es responsable de regular las condiciones sanitarias",
+      "La Comunidad Autónoma no tiene poder en el ámbito de la salud pública"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿Qué establece el Título II sobre la participación de la ciudadanía en la toma de decisiones políticas?",
+    "options": [
+      "Que la ciudadanía tiene derecho a participar en la toma de decisiones a través del Parlamento",
+      "Que la ciudadanía solo puede votar en las elecciones",
+      "Que la ciudadanía no tiene derecho a participar activamente",
+      "Que la ciudadanía tiene derecho solo en situaciones de emergencia"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "En la Constitución Española, la salud es:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 2 -> Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.",
+    "question": "¿En qué se diferencia el Título IV del Estatuto respecto a otros títulos?",
     "options": [
-      "Un derecho fundamental",
-      "Un servicio opcional",
-      "Un lujo",
-      "Un derecho que depende de la región"
+      "Define la organización interna de la Comunidad Autónoma",
+      "Define las políticas educativas",
+      "Define las políticas exteriores",
+      "Define las políticas medioambientales"
+    ],
+    "correct": 0
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué establece la Ley General de Sanidad respecto al sistema sanitario público?",
+    "options": [
+      "Que es un sistema único y centralizado",
+      "Que es un sistema descentralizado con participación de las comunidades autónomas",
+      "Que es un sistema privatizado",
+      "Que solo está disponible para ciertos grupos sociales"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué principio fundamental rige el sistema sanitario público en España según la Ley General de Sanidad?",
+    "options": [
+      "El principio de equidad",
+      "El principio de exclusividad",
+      "El principio de competencia libre",
+      "El principio de privatización"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "Según la Constitución Española, los poderes públicos deben velar por:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Quién tiene la competencia para regular los servicios de salud en España según la Ley General de Sanidad?",
     "options": [
-      "El bienestar de la ciudadanía",
-      "El enriquecimiento personal",
-      "El control de los medios de comunicación",
-      "La exclusión social"
+      "El Gobierno central",
+      "Las comunidades autónomas",
+      "Las entidades privadas de salud",
+      "Los hospitales"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué se entiende por 'universalidad' en el contexto de la Ley General de Sanidad?",
+    "options": [
+      "Que todos los ciudadanos tienen derecho a la asistencia sanitaria",
+      "Que solo las personas con contrato de trabajo tienen acceso al sistema",
+      "Que solo los ciudadanos con residencia en la capital pueden acceder a los servicios",
+      "Que la sanidad está reservada a los seguros privados"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué establece la Constitución Española en relación con el derecho a la protección de la salud?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué se debe garantizar en el acceso a los servicios de salud?",
     "options": [
-      "Es un derecho que debe garantizarse a todos los ciudadanos",
-      "Es un derecho solo para los trabajadores",
-      "Es un derecho que depende del tipo de enfermedad",
-      "Solo se aplica en emergencias sanitarias"
+      "El pago por adelantado de los servicios",
+      "La equidad",
+      "El servicio exclusivo para los mayores de 65 años",
+      "La financiación privada"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Cuál es el objeto principal de la Ley 2/1998, de 15 de junio, de Salud de Andalucía?",
+    "options": [
+      "Establecer los principios y los derechos relacionados con la salud de los ciudadanos",
+      "Regular el sistema de aseguramiento privado",
+      "Gestionar exclusivamente los recursos del sistema sanitario público",
+      "Establecer las políticas de salud para los ciudadanos extranjeros"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Quién tiene la competencia de regular el derecho a la salud según la Constitución?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué principio establece la Ley de Salud de Andalucía sobre el acceso a la salud?",
     "options": [
-      "El Estado y las Comunidades Autónomas",
-      "Solo el Gobierno Central",
-      "El Congreso de los Diputados",
-      "El Tribunal Constitucional"
+      "El principio de calidad",
+      "El principio de rentabilidad",
+      "El principio de equidad",
+      "El principio de exclusividad"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "El artículo 43 de la Constitución Española trata sobre:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley de Salud de Andalucía, ¿qué derecho tienen los ciudadanos en relación con los servicios sanitarios?",
     "options": [
       "El derecho a la protección de la salud",
-      "La libertad de expresión",
-      "El derecho a la educación",
-      "La propiedad intelectual"
+      "El derecho a elegir libremente el centro de salud",
+      "El derecho a recibir atención solo en hospitales públicos",
+      "El derecho a ser atendido solo por especialistas"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué principio constitucional protege la igualdad de todos los ciudadanos?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "En la Ley de Salud de Andalucía, ¿qué establece respecto a los deberes de los ciudadanos?",
     "options": [
-      "El principio de igualdad",
-      "El principio de jerarquía",
-      "El principio de autonomía",
-      "El principio de justicia distributiva"
+      "Pagar la totalidad de los servicios sanitarios",
+      "Cumplir con las normas de salud pública",
+      "Solo acudir a los centros públicos",
+      "No es necesario cumplir ninguna obligación"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué contempla el Plan Andaluz de Salud según la Ley de Salud de Andalucía?",
+    "options": [
+      "Es un plan que regula solo los servicios privados de salud",
+      "Es un plan que regula los servicios de atención solo para los mayores de 65 años",
+      "Es un plan que únicamente cubre la asistencia a pacientes con enfermedades raras",
+      "Es un plan de acción que cubre todos los ámbitos de la salud pública y la asistencia sanitaria"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece el Contrato Programa en relación con la organización sanitaria en Andalucía?",
+    "options": [
+      "Establece un acuerdo entre el Servicio Andaluz de Salud y otras entidades para mejorar los recursos y la calidad de la atención",
+      "Define las tarifas que los pacientes deben pagar por los servicios",
+      "Establece un contrato exclusivo para la gestión privada de hospitales",
+      "Regula únicamente la formación de los profesionales de salud"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué derecho establece la Constitución Española relacionado con la educación?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Cómo se distribuyen las competencias en materia de sanidad según la Ley General de Sanidad?",
     "options": [
-      "El derecho a la educación gratuita y obligatoria",
-      "El derecho a elegir cualquier tipo de educación",
-      "El derecho a la educación religiosa",
-      "El derecho a una educación privada"
+      "Las competencias son completamente gestionadas por las comunidades autónomas",
+      "El Gobierno central gestiona todas las competencias en materia sanitaria",
+      "El Gobierno central tiene competencias exclusivas, y las comunidades autónomas tienen competencias delegadas",
+
+      "Las competencias son compartidas entre el Gobierno central y las entidades privadas"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿En qué se centra principalmente el sistema sanitario público según la Ley General de Sanidad?",
+    "options": [
+      "En privatizar los servicios de salud",
+      "En garantizar la asistencia sanitaria a toda la población sin discriminación",
+      "En establecer un sistema exclusivo para los trabajadores del sector público",
+      "En limitar el acceso a la sanidad a personas mayores de 65 años"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley de Salud de Andalucía, ¿qué se entiende por el 'Sistema Sanitario Público de Andalucía' (SSPA)?",
+    "options": [
+      "El conjunto de servicios y recursos sanitarios públicos gestionados por la Junta de Andalucía",
+      "Los hospitales privados que operan en la región",
+      "Las clínicas privadas que reciben financiación pública",
+      "Los servicios sanitarios de los municipios"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "El derecho a la protección de la salud en la Constitución Española está vinculado a:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué papel desempeñan las Administraciones Públicas en la Ley General de Sanidad?",
     "options": [
-      "El bienestar general de los ciudadanos",
-      "La medicina tradicional",
-      "La autonomía médica",
-      "El derecho a no ser atendido en casos urgentes"
+      "Son responsables de garantizar el acceso a los servicios sanitarios y de salud pública",
+      "Solo gestionan los servicios de salud en zonas rurales",
+      "Solo regulan los precios de los medicamentos",
+      "Solo se encargan de la gestión de la sanidad privada"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué establece la Constitución Española sobre la libertad personal?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece el Título I de la Ley de Salud de Andalucía?",
     "options": [
-      "Que es inviolable y solo puede ser limitada por la ley",
-      "Que puede ser restringida por el Gobierno en cualquier momento",
-      "Que puede ser restringida solo en casos de emergencia sanitaria",
-      "Que no es un derecho absoluto"
+      "Regula la organización de los centros privados de salud",
+      "Define los requisitos para obtener un seguro de salud privado",
+      "Establece los principios generales del sistema sanitario y los derechos de los ciudadanos",
+      "Regula solo los derechos de los profesionales sanitarios"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Cuál es el objetivo del Plan Andaluz de Salud?",
+    "options": [
+      "Privatizar los servicios de salud",
+      "Mejorar la salud pública y el acceso a la atención sanitaria",
+      "Limitar el acceso a la atención sanitaria solo a residentes en áreas urbanas",
+      "Reducir los costos de los servicios de salud"
+    ],
+    "correct": 1
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué función tiene la Consejería competente en materia de Salud de Andalucía según la Ley de Salud de Andalucía?",
+    "options": [
+      "Regular los precios de los medicamentos",
+      "Garantizar la coordinación y ejecución de las políticas de salud pública y sanidad",
+      "Gestionar exclusivamente los hospitales privados",
+      "Proveer seguros médicos privados para todos los ciudadanos"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué establece la Ley General de Sanidad sobre la coordinación de los servicios sanitarios?",
+    "options": [
+      "Debe garantizarse una coordinación eficaz entre las administraciones públicas",
+      "Cada comunidad autónoma gestiona los servicios de forma independiente sin coordinación",
+      "Los servicios privados no requieren coordinación con los públicos",
+      "La coordinación solo se refiere a los servicios educativos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Cuál es el principio de 'integralidad' que establece la Ley General de Sanidad?",
+    "options": [
+      "El derecho a recibir atención sanitaria en todos los niveles de la asistencia",
+      "La atención solo a enfermedades graves",
+      "La atención a enfermedades solo en hospitales",
+      "La atención exclusivamente en centros de salud rurales"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué se entiende por 'descentralización' en el sistema sanitario?",
+    "options": [
+      "Que las competencias en materia de salud se distribuyen entre las comunidades autónomas y el Gobierno central",
+      "Que solo el Gobierno central gestiona todos los recursos sanitarios",
+      "Que la gestión de la salud está completamente privatizada",
+      "Que solo se gestionan hospitales de grandes ciudades"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué función tiene el Ministerio de Sanidad según la Ley General de Sanidad?",
+    "options": [
+      "Establecer la normativa básica sobre la sanidad pública y coordinar las políticas sanitarias entre las comunidades autónomas",
+      "Gestionar todos los hospitales privados",
+      "Establecer precios de medicamentos",
+      "Coordinar solo las políticas educativas"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué principio establece la Ley General de Sanidad sobre la 'eficacia' en el sistema sanitario?",
+    "options": [
+      "La eficacia en la gestión de los recursos sanitarios públicos",
+      "La limitación de la atención sanitaria a ciertos grupos",
+      "El aumento de los costos en los hospitales",
+      "La atención solo a enfermedades no tratables en el sistema público"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué establece la Ley General de Sanidad sobre la 'participación ciudadana' en los servicios de salud?",
+    "options": [
+      "Que la ciudadanía debe participar en la organización y control de los servicios sanitarios",
+      "Que la ciudadanía solo tiene derecho a recibir servicios sin opinar",
+      "Que la participación se limita a elegir el centro de salud",
+      "Que los ciudadanos no tienen ningún rol en la gestión del sistema sanitario"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué debe garantizar el sistema sanitario público?",
+    "options": [
+      "El acceso a la atención sanitaria a todas las personas sin discriminación",
+      "Solo la atención a personas mayores de 65 años",
+      "Que los pacientes paguen un porcentaje de los servicios",
+      "El servicio solo en hospitales privados"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué se entiende por 'universalidad' en la Ley General de Sanidad?",
+    "options": [
+      "Que todos los ciudadanos tienen derecho a la asistencia sanitaria",
+      "Que solo las personas aseguradas pueden acceder a los servicios de salud",
+      "Que la sanidad pública está disponible solo en las grandes ciudades",
+      "Que la asistencia sanitaria es solo para trabajadores públicos"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué principio regula la Ley General de Sanidad respecto a los servicios sanitarios privados?",
+    "options": [
+      "Los servicios privados deben colaborar con los públicos en la atención a los pacientes",
+      "Los servicios privados son exclusivos y no se relacionan con los públicos",
+      "Los servicios privados no tienen regulación alguna",
+      "Los servicios privados deben cobrar tarifas diferenciadas"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Qué derecho se menciona en la Constitución Española en relación con los menores?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué ocurre en caso de que el sistema sanitario público no pueda ofrecer ciertos tratamientos?",
     "options": [
-      "El derecho a la protección integral",
-      "El derecho a la educación secundaria obligatoria",
-      "El derecho a la vivienda digna",
-      "El derecho a la movilidad internacional"
+      "Los pacientes pueden ser derivados a centros privados en determinadas circunstancias",
+      "Los pacientes deben esperar indefinidamente",
+      "Los pacientes deben pagar por su cuenta los tratamientos en centros privados",
+      "Los pacientes no tienen derecho a recibir tratamiento en ese caso"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué regula la Ley General de Sanidad sobre la formación de los profesionales sanitarios?",
+    "options": [
+      "Establece que los profesionales deben contar con una formación continua y adecuada",
+      "No establece ningún requisito para la formación",
+      "Los profesionales sanitarios solo necesitan formación inicial",
+      "La formación está a cargo de las universidades privadas"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué regula la Ley General de Sanidad sobre la 'calidad' en la atención sanitaria?",
+    "options": [
+      "Establece que la calidad debe ser un elemento fundamental en los servicios de salud públicos",
+      "No hace referencia a la calidad de los servicios",
+      "La calidad solo se regula en los hospitales privados",
+      "Solo se garantiza la calidad en los servicios de emergencia"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué derecho tienen los pacientes en relación con los servicios sanitarios?",
+    "options": [
+      "El derecho a recibir una atención sanitaria adecuada y gratuita",
+      "El derecho a elegir entre hospitales privados",
+      "El derecho a pagar menos por los servicios de salud",
+      "El derecho a recibir solo tratamiento en situaciones de urgencia"
+    ],
+    "correct": 2
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué se entiende por 'participación' en la Ley General de Sanidad?",
+    "options": [
+      "La posibilidad de los ciudadanos de influir en la gestión de los servicios de salud",
+      "El derecho de los ciudadanos a elegir sus propios médicos",
+      "La capacidad de los ciudadanos de establecer tarifas de los servicios de salud",
+      "La opción de los ciudadanos a seleccionar las infraestructuras sanitarias"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué aspecto de la Ley General de Sanidad se enfoca en la 'promoción de la salud'?",
+    "options": [
+      "Establece políticas públicas que fomentan hábitos de vida saludables y la prevención de enfermedades",
+      "Establece solo tratamientos curativos",
+      "Promueve la privatización de los servicios de salud",
+      "No hace referencia a la promoción de la salud"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué establece sobre la cobertura sanitaria de los servicios?",
+    "options": [
+      "Debe haber una cobertura sanitaria para toda la población, independientemente de su situación económica",
+      "Solo se cubren los servicios a los trabajadores públicos",
+      "Solo se cubren enfermedades graves",
+      "La cobertura sanitaria es exclusiva para los residentes de grandes ciudades"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué establece la Ley General de Sanidad respecto a la 'desigualdad' en la atención sanitaria?",
+    "options": [
+      "Debe eliminarse cualquier forma de desigualdad en la prestación de servicios sanitarios",
+      "Las desigualdades son permitidas entre comunidades autónomas",
+      "Las desigualdades deben ser reguladas por las entidades privadas",
+      "No se menciona la desigualdad en la Ley"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿quién tiene la responsabilidad de asegurar el cumplimiento de la Ley en el ámbito sanitario?",
+    "options": [
+      "Las administraciones públicas y los profesionales sanitarios",
+      "Solo el Ministerio de Sanidad",
+      "Las entidades privadas de salud",
+      "Solo las comunidades autónomas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué establece la Ley General de Sanidad respecto a la 'equidad' en el sistema sanitario?",
+    "options": [
+      "Que todos los ciudadanos deben recibir la misma atención, sin importar su situación económica",
+      "Que los ciudadanos con menos recursos deben pagar más por la atención",
+      "Que los servicios de salud solo están disponibles para los asegurados",
+      "Que se deben priorizar los tratamientos en áreas urbanas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué función tiene el Sistema Nacional de Salud?",
+    "options": [
+      "Garantizar el acceso universal a la atención sanitaria",
+      "Solo gestionar la atención en hospitales privados",
+      "Ofrecer atención solo en situaciones de emergencia",
+      "Establecer los precios de los medicamentos"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué papel juegan las Comunidades Autónomas según la Ley General de Sanidad?",
+    "options": [
+      "Son responsables de gestionar y organizar los servicios de salud dentro de su territorio",
+      "Solo colaboran con el Ministerio de Sanidad, sin competencias propias",
+      "Solo gestionan los servicios en el ámbito rural",
+      "No tienen ninguna responsabilidad en la gestión sanitaria"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Cuál es la relación entre el sistema sanitario público y el sistema sanitario privado según la Ley General de Sanidad?",
+    "options": [
+      "Ambos sistemas deben colaborar, pero el público es el responsable de la atención primaria",
+      "El sistema privado debe operar de forma independiente y sin coordinación con el público",
+      "El sistema privado tiene prioridad sobre el público en todos los casos",
+      "El sistema privado no tiene ninguna regulación en la Ley General de Sanidad"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué principio se aplica al acceso a la atención sanitaria?",
+    "options": [
+      "El acceso a los servicios sanitarios debe ser universal, gratuito y equitativo",
+      "Solo los ciudadanos con seguro médico tienen acceso",
+      "El acceso está limitado a las grandes ciudades",
+      "La atención solo se proporciona a personas de la tercera edad"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué aspecto regula la Ley General de Sanidad respecto a los servicios de salud en zonas rurales?",
+    "options": [
+      "El sistema debe garantizar la igualdad en la prestación de servicios, independientemente de la ubicación geográfica",
+      "Los servicios sanitarios en zonas rurales se limitan solo a atención primaria",
+      "No se menciona en la ley el acceso a los servicios en zonas rurales",
+      "Los servicios rurales deben ser prestados únicamente por médicos privados"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿qué papel desempeñan los profesionales sanitarios?",
+    "options": [
+      "Deben colaborar en la mejora continua de la calidad del servicio y el bienestar de los pacientes",
+      "Solo deben atender a los pacientes cuando son requeridos",
+      "No tienen ninguna responsabilidad en la calidad del servicio",
+      "Solo están obligados a brindar atención médica en situaciones de emergencia"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué se establece sobre la 'protección de la salud' en la Ley General de Sanidad?",
+    "options": [
+      "El sistema sanitario debe proteger la salud de todos los ciudadanos, garantizando su acceso a los servicios",
+      "Solo se protege la salud de los ciudadanos asegurados",
+      "La ley no establece medidas de protección en relación a la salud",
+      "La protección de la salud es competencia exclusiva de las entidades privadas"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué se menciona en la Ley General de Sanidad sobre los derechos de los pacientes?",
+    "options": [
+      "Los pacientes tienen derecho a recibir información sobre su salud y decidir sobre su tratamiento",
+      "Los pacientes no tienen derecho a acceder a su historial médico",
+      "Los pacientes solo tienen derecho a atención de urgencias",
+      "Los pacientes deben pagar por recibir atención sanitaria en todos los casos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Cómo debe organizarse el sistema sanitario público, según la Ley General de Sanidad?",
+    "options": [
+      "Debe organizarse de manera jerárquica, asegurando la atención primaria, especializada y hospitalaria",
+      "Debe centrarse solo en la atención hospitalaria",
+      "Debe priorizar el sector privado sobre el público",
+      "Debe ofrecer atención únicamente en situaciones de emergencia"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "Según la Ley General de Sanidad, ¿cómo deben actuar los servicios sanitarios en situaciones de emergencia?",
+    "options": [
+      "Deben ofrecer atención inmediata, sin distinción, a todas las personas que lo necesiten",
+      "Deben restringir la atención solo a personas aseguradas",
+      "Deben dar prioridad a los pacientes de pago",
+      "Deben remitir a los pacientes a centros privados"
+    ],
+    "correct": 2
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué establece la Ley General de Sanidad respecto a la atención sanitaria a colectivos vulnerables?",
+    "options": [
+      "La Ley garantiza una atención sanitaria adecuada a colectivos vulnerables, como personas mayores, niños y personas con discapacidad",
+      "Solo se garantiza atención a los colectivos vulnerables en situaciones de emergencia",
+      "No se menciona a los colectivos vulnerables en la Ley",
+      "La atención se limita a la atención primaria en los colectivos vulnerables"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Valores superiores y principios inspiradores.",
-    "question": "¿Cuál es el propósito del artículo 43 de la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 14/1986, de 25 de abril, General de Sanidad.",
+    "question": "¿Qué establece la Ley General de Sanidad sobre la financiación del sistema sanitario?",
     "options": [
-      "Asegurar la salud pública",
-      "Reglamentar la educación",
-      "Fomentar la cooperación internacional",
-      "Garantizar la libertad religiosa"
+      "La financiación del sistema sanitario debe ser pública, asegurando la accesibilidad de todos los ciudadanos",
+      "El sistema sanitario se financia únicamente mediante seguros privados",
+      "Solo se financian los servicios de urgencias y emergencias",
+      "Los pacientes deben pagar una cuota mensual para acceder al sistema sanitario"
     ],
     "correct": 0
   },
 
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "¿Cómo se define la soberanía en la Constitución Española de 1978?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Cuál es el principal objetivo de la Ley 2/1998, de Salud de Andalucía?",
     "options": [
-      "Reside en el pueblo español, del que emanan los poderes del Estado",
-      "Reside únicamente en el Rey",
-      "Reside en el Parlamento Europeo",
-      "Reside en las Comunidades Autónomas"
+      "Regular las competencias de las entidades privadas en el sistema de salud",
+      "Establecer tarifas para los servicios sanitarios públicos",
+      "Garantizar el derecho a la protección de la salud en Andalucía",
+      "Establecer la regulación de los seguros privados de salud"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué derechos tienen los ciudadanos según la Ley de Salud de Andalucía?",
+    "options": [
+      "El derecho a elegir entre servicios sanitarios públicos y privados",
+      "El derecho a atención sanitaria solo en situaciones de urgencia",
+      "El derecho a elegir el tratamiento sin ningún control",
+      "El derecho a la atención sanitaria adecuada y a la información sobre su salud"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley 2/1998, ¿quién tiene la responsabilidad de la organización y gestión de los servicios sanitarios en Andalucía?",
+    "options": [
+      "Cada municipio en Andalucía",
+      "El Gobierno Central",
+      "Las entidades privadas de salud",
+      "La Consejería de Salud de la Junta de Andalucía"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley de Salud de Andalucía, ¿cómo debe garantizarse la equidad en el acceso a los servicios sanitarios?",
+    "options": [
+      "Asegurando que todos los ciudadanos tengan acceso a la atención sanitaria, independientemente de su situación económica o geográfica",
+      "Solo los residentes en grandes ciudades tendrán acceso a todos los servicios",
+      "Solo los ciudadanos con seguro privado tendrán acceso a los servicios",
+      "Los servicios serán gratuitos solo para los mayores de 65 años"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "¿Cuál es la función del Congreso de los Diputados según la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley de Salud de Andalucía respecto a la promoción de la salud?",
     "options": [
-      "Legislar y controlar al Gobierno",
-      "Ejercer el poder judicial",
-      "Dirigir la política exterior",
-      "Nombrar a los jueces"
+      "El fomento de hábitos de vida saludables y prevención de enfermedades",
+      "El sistema sanitario solo se ocupa de emergencias y urgencias",
+      "Solo se debe centrar en la atención de enfermedades graves",
+      "El sistema de salud no tiene responsabilidad en la promoción de la salud"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "¿Quién es responsable de la formación del Gobierno en España?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué tipo de atención sanitaria garantiza la Ley de Salud de Andalucía?",
     "options": [
-      "El Presidente del Gobierno, designado por el Rey",
-      "El Congreso de los Diputados",
+      "Solo servicios de urgencias",
+      "Solo atención primaria",
+      "Atención sanitaria integral, tanto primaria como especializada",
+      "Solo atención especializada"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley de Salud de Andalucía, ¿qué instituciones tienen competencia en la organización y gestión del sistema sanitario público en Andalucía?",
+    "options": [
+      "Las clínicas privadas en Andalucía",
+      "El Ministerio de Sanidad y las Comunidades Autónomas",
+      "La Consejería de Salud y el Servicio Andaluz de Salud (SAS)",
+      "Los ayuntamientos y gobiernos locales"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley de Salud de Andalucía respecto a los derechos de los pacientes?",
+    "options": [
+      "El derecho a atención sanitaria solo en situaciones de urgencia",
+      "El derecho a atención solo en grandes hospitales",
+      "El derecho a la información, el consentimiento informado y la confidencialidad de sus datos",
+      "El derecho a elegir cualquier tratamiento sin importar el costo"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley de Salud de Andalucía, ¿qué principios deben guiar la actuación de los profesionales sanitarios?",
+    "options": [
+      "La atención debe ser prioritaria para los pacientes de mayor edad",
+      "El respeto a los derechos de los pacientes, la ética profesional y la calidad en la atención",
+      "El beneficio económico y la rapidez en el servicio",
+      "La atención solo debe prestarse a pacientes con seguro privado"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Cómo se organiza la asistencia sanitaria según la Ley de Salud de Andalucía?",
+    "options": [
+      "Solo en hospitales situados en las capitales de provincia",
+      "Solo en hospitales públicos grandes",
+      "Solo mediante clínicas privadas",
+      "Mediante una red de centros de salud, hospitales y dispositivos de urgencias"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley de Salud de Andalucía, ¿quién tiene la obligación de financiar los servicios sanitarios públicos?",
+    "options": [
+      "Las empresas privadas de salud",
+      "Solo los pacientes a través de pagos directos",
+      "El sistema de financiación pública del Estado y la Comunidad Autónoma de Andalucía",
+      "Solo la Comunidad Autónoma de Andalucía"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley de Salud de Andalucía, ¿qué papel juega la prevención en el sistema sanitario?",
+    "options": [
+      "La prevención solo es responsabilidad de los ciudadanos",
+      "La prevención es una opción, no una obligación",
+      "La prevención solo se aplica a enfermedades graves",
+      "La prevención es fundamental para reducir enfermedades y mejorar la salud de la población"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley de Salud de Andalucía respecto a los servicios de urgencias?",
+    "options": [
+      "Solo se prestan en situaciones extremas y no se cubren enfermedades menores",
+      "Solo se cubren urgencias para personas aseguradas",
+      "Deben estar disponibles las 24 horas del día para toda la población",
+      "Solo deben estar disponibles en grandes hospitales"
+    ],
+    "correct": 2
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué papel tiene la educación en salud según la Ley de Salud de Andalucía?",
+    "options": [
+      "La educación en salud solo se aplica en situaciones de emergencia",
+      "La educación en salud es irrelevante para el sistema sanitario",
+      "Solo se educa en salud a los profesionales sanitarios",
+      "La educación en salud debe ser promovida para mejorar el bienestar de la población y prevenir enfermedades"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Cómo se garantiza la participación ciudadana en la gestión sanitaria según la Ley de Salud de Andalucía?",
+    "options": [
+      "Solo los profesionales sanitarios toman las decisiones sin participación ciudadana",
+      "La participación es opcional y no obligatoria",
+      "A través de mecanismos de participación en la toma de decisiones sanitarias y en la evaluación de los servicios",
+      "La participación se limita a los representantes políticos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué papel juega el Servicio Andaluz de Salud (SAS) según la Ley de Salud de Andalucía?",
+    "options": [
+      "Solo gestiona la atención en hospitales privados",
+      "Solo organiza programas de formación para profesionales",
+      "No tiene ninguna responsabilidad en la gestión sanitaria",
+      "Gestiona y organiza la prestación de los servicios sanitarios públicos en Andalucía"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley de Salud de Andalucía respecto a la accesibilidad a los servicios sanitarios?",
+    "options": [
+      "Solo se garantiza acceso a servicios en situaciones de urgencia",
+      "El acceso está limitado a ciertas edades o condiciones sociales",
+      "Los servicios deben ser accesibles y adecuados para toda la población, sin discriminación",
+      "Solo los pacientes con seguro privado tienen acceso a servicios especiales"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley 2/1998 en relación con la atención a la salud mental?",
+    "options": [
+      "Solo cubre tratamientos de salud mental en casos graves",
+      "Excluye la salud mental del sistema público de salud",
+      "Solo los privados tienen la obligación de ofrecer atención en salud mental",
+      "Garantiza la atención integral a la salud mental, tanto en su prevención como en su tratamiento"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley 2/1998, ¿cómo debe organizarse la red de servicios sanitarios?",
+    "options": [
+      "La red debe ser centralizada y solo debe haber atención en las grandes ciudades",
+      "Debe organizarse de manera jerárquica, con centros de salud como base y hospitales como apoyo",
+      "Solo debe haber hospitales de gran tamaño",
+      "La red no tiene organización definida, cada centro decide cómo operar"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué papel juegan los profesionales sanitarios en la Ley de Salud de Andalucía?",
+    "options": [
+      "Solo deben actuar en emergencias",
+      "Deben centrarse exclusivamente en la atención de enfermedades graves",
+      "Deben seguir protocolos estrictos sin tomar en cuenta las necesidades individuales de los pacientes",
+      "Deben ofrecer atención sanitaria respetuosa con los derechos del paciente, basándose en la ética y calidad"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley de Salud de Andalucía, ¿cómo debe garantizarse la igualdad en el acceso a los servicios de salud?",
+    "options": [
+      "Solo los habitantes de las grandes ciudades tienen derecho a todos los servicios",
+      "El acceso depende exclusivamente del tipo de seguro de salud",
+      "Debe ser garantizada sin discriminación por razón de lugar de residencia, condición social o económica",
+      "Solo se garantiza el acceso en situaciones de urgencia"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley 2/1998 respecto al derecho a la atención sanitaria de los extranjeros en situación irregular?",
+    "options": [
+      "Solo los nacionales tienen derecho a atención sanitaria",
+      "Los extranjeros no tienen derecho a atención sanitaria",
+      "Los extranjeros solo tienen derecho si tienen seguro privado",
+      "Los extranjeros en situación irregular tienen derecho a la atención sanitaria en situaciones de urgencia y enfermedad grave"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley 2/1998, ¿qué se entiende por 'atención primaria de salud'?",
+    "options": [
+      "Es la atención básica y continua que se presta a los ciudadanos para su bienestar y prevención de enfermedades",
+      "Es la atención solo en situaciones de emergencia",
+      "Es una atención especializada solo para personas con enfermedades graves",
+      "Es una atención prestada exclusivamente por hospitales de grandes ciudades"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley 2/1998, ¿cómo se deben integrar los servicios sanitarios públicos y privados?",
+    "options": [
+      "Los servicios privados deben actuar de forma autónoma sin ninguna regulación pública",
+      "No existe integración entre los servicios públicos y privados en Andalucía",
+      "Los servicios privados deben ser excluidos del sistema sanitario público",
+      "Los servicios sanitarios públicos deben ser complementarios con los privados, siempre en beneficio de la población"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley 2/1998, ¿qué se entiende por 'salud pública' en Andalucía?",
+    "options": [
+      "Es un concepto limitado a la atención en hospitales",
+      "Es la regulación de los tratamientos privados",
+      "Solo es el control de enfermedades graves",
+      "Es la prevención y promoción de la salud, así como la protección de la población frente a riesgos sanitarios"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley 2/1998, ¿cómo debe garantizarse el derecho a la salud en Andalucía?",
+    "options": [
+      "Solo se garantiza el derecho a la salud en situaciones de urgencia",
+      "Debe garantizarse mediante una atención sanitaria universal, pública y de calidad para toda la población",
+      "Solo los ciudadanos de gran poder adquisitivo pueden acceder a la atención sanitaria",
+      "El derecho solo se garantiza a los residentes en la capital"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley 2/1998 sobre los derechos de los pacientes en cuanto a la información sobre su salud?",
+    "options": [
+      "La información solo se proporciona en casos de enfermedades graves",
+      "Solo los médicos tienen acceso completo a la información del paciente",
+      "Los pacientes solo tienen derecho a conocer los resultados finales de su tratamiento",
+      "Los pacientes tienen derecho a recibir información suficiente, clara y comprensible sobre su estado de salud y tratamientos"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley de Salud de Andalucía sobre la financiación de los servicios sanitarios?",
+    "options": [
+      "Los servicios se financian únicamente a través de pagos directos de los pacientes",
+      "Solo los servicios privados tienen financiación pública",
+      "Los servicios sanitarios no requieren financiación pública",
+      "Los servicios sanitarios deben ser financiados por la Consejería de Salud y otras administraciones públicas competentes"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué papel juega la participación ciudadana en la Ley 2/1998?",
+    "options": [
+      "Los ciudadanos no tienen voz en la gestión sanitaria",
+      "La participación solo se limita a profesionales de la salud",
+      "Los ciudadanos solo pueden recibir información sobre los servicios disponibles",
+      "Los ciudadanos deben poder participar en la toma de decisiones sanitarias y en la evaluación de servicios"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "¿Qué establece la Ley de Salud de Andalucía sobre la planificación y programación de los servicios sanitarios?",
+    "options": [
+      "Solo se planifican servicios para las grandes ciudades",
+      "No existe planificación para los servicios sanitarios",
+      "La planificación depende únicamente de los centros privados",
+      "Debe garantizarse una planificación adecuada que permita la disponibilidad de los servicios en todo el territorio"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 3 -> Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "question": "Según la Ley 2/1998, ¿qué establece respecto a la protección de la salud ambiental?",
+    "options": [
+      "La protección de la salud ambiental no está regulada en la ley",
+      "Solo se regula en casos de contaminación grave",
+      "La ley solo cubre la contaminación en áreas industriales",
+      "La Ley establece medidas para garantizar la protección de la salud frente a factores ambientales perjudiciales"
+    ],
+    "correct": 3
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cuál es la función principal de la Consejería competente en materia de salud en Andalucía?",
+    "options": [
+      "Solo coordinar los hospitales",
+      "Dirigir exclusivamente los programas de salud mental",
+      "Solo regular la atención primaria",
+      "Gestionar y coordinar las políticas de salud en toda la comunidad autónoma"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cómo está organizada la atención primaria en Andalucía según la estructura del Servicio Andaluz de Salud?",
+    "options": [
+      "Solo en hospitales de grandes ciudades",
+      "A través de servicios privados concertados",
+      "No hay un sistema organizado de atención primaria",
+      "A través de centros de salud y consultorios, con la atención más cercana a la población"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué tipo de atención proporcionan los hospitales en Andalucía según la organización del Sistema Sanitario Público?",
+    "options": [
+      "Solo atención a emergencias",
+      "Solo consultas de atención primaria",
+      "Atención exclusiva a pacientes de urgencias",
+      "Atención especializada para problemas complejos y enfermedades graves"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué son las Áreas de Gestión Sanitarias dentro del Sistema Sanitario Público de Andalucía?",
+    "options": [
+      "Zonas donde solo se presta atención a urgencias",
+      "Áreas dedicadas exclusivamente a la formación de profesionales sanitarios",
+      "Zonas en las que solo se realizan trasplantes y tratamientos especializados",
+      "Divisiones territoriales encargadas de organizar y gestionar los servicios sanitarios en diversas zonas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué servicios de atención se incluyen en las Áreas de Organización Especial dentro del Sistema Sanitario Público de Andalucía?",
+    "options": [
+      "Solo servicios de urgencias",
+      "Solo atención a enfermedades cardiovasculares",
+      "Solo servicios de diagnóstico",
+      "Salud Mental, Trasplantes, Urgencias, y Biobanco del SSPA"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué se entiende por la Red Andaluza de Medicina Transfusional, Tejidos y Células?",
+    "options": [
+      "Solo un servicio para la recolección de sangre",
+      "Una red de investigación sobre enfermedades raras",
+      "Un sistema exclusivo de atención a donantes de órganos",
+      "Una red encargada de la gestión y distribución de sangre, tejidos y células para trasplantes"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cuál es la función del Biobanco del SSPA en Andalucía?",
+    "options": [
+      "Solo almacenar sangre para transfusiones",
+      "Prestar atención a pacientes con enfermedades terminales",
+      "Realizar estudios de genética en pacientes hospitalizados",
+      "Conservar y gestionar muestras biológicas para la investigación científica"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué comprende la asistencia sanitaria especializada en Andalucía?",
+    "options": [
+      "Solo atención a enfermedades comunes",
+      "Solo atención en situaciones de emergencia",
+      "Solo atención a personas mayores",
+      "Atención a pacientes que requieren diagnóstico y tratamiento avanzado, generalmente en hospitales"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué implica la organización de la atención sanitaria en las Áreas de Gestión Sanitarias en Andalucía?",
+    "options": [
+      "Solo la atención a emergencias",
+      "La gestión de centros privados de salud",
+      "La gestión exclusiva de servicios de salud mental",
+      "La planificación y coordinación de los servicios sanitarios a nivel territorial"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué papel desempeña la Consejería de Salud en la organización de los servicios sanitarios en Andalucía?",
+    "options": [
+      "Solo supervisa los hospitales públicos",
+      "Solo organiza campañas de vacunación",
+      "Solo se encarga de la formación de los profesionales de salud",
+      "Es la encargada de coordinar y regular todos los servicios sanitarios públicos en la comunidad"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué se entiende por atención primaria en el contexto del Sistema Sanitario Público de Andalucía?",
+    "options": [
+      "Solo se da atención a emergencias",
+      "Atención únicamente en grandes hospitales",
+      "Es una atención especializada en enfermedades crónicas",
+      "Es la atención básica que incluye la prevención, diagnóstico y tratamiento inicial en centros de salud"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cómo está organizada la atención en urgencias dentro del Sistema Sanitario Público de Andalucía?",
+    "options": [
+      "Solo se ofrece en hospitales privados",
+      "Solo existe atención de urgencias en las grandes ciudades",
+      "No existe un sistema organizado de urgencias",
+      "A través de servicios especializados en urgencias en hospitales y centros de salud"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué función tienen los servicios de trasplantes dentro de la sanidad pública andaluza?",
+    "options": [
+      "Solo se encargan de diagnósticos",
+      "Solo gestionan la donación de órganos",
+      "Solo ofrecen atención a pacientes de urgencias",
+      "Realizan trasplantes de órganos y gestionan los recursos para este fin"
+    ],
+    "correct": 3
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué es la Salud Mental en el contexto del Sistema Sanitario Público de Andalucía?",
+    "options": [
+      "Un área especializada en la prevención, diagnóstico y tratamiento de trastornos mentales",
+      "Solo un servicio de emergencias",
+      "Un programa exclusivamente para mayores de 60 años",
+      "Solo ofrece tratamientos en centros privados"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué establece la Ley de Salud de Andalucía en relación con las competencias del Servicio Andaluz de Salud?",
+    "options": [
+      "El SAS tiene competencias para gestionar y coordinar los recursos y servicios sanitarios públicos en Andalucía",
+      "El SAS solo se ocupa de los servicios de urgencias",
+      "El SAS no tiene competencias en la atención primaria",
+      "El SAS solo gestiona hospitales privados"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué es el Servicio Andaluz de Salud (SAS)?",
+    "options": [
+      "Es el organismo encargado de gestionar los servicios sanitarios públicos en Andalucía",
+      "Es una red privada de hospitales",
+      "Es una asociación de médicos de Andalucía",
+      "Es un centro de investigación sobre enfermedades contagiosas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cuáles son los principios que deben regir la organización de la atención sanitaria en Andalucía?",
+    "options": [
+      "Accesibilidad, equidad, eficacia y eficiencia",
+      "Solo la accesibilidad y la equidad",
+      "Eficiencia y rentabilidad financiera",
+      "Solo la eficacia en la atención especializada"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué tipo de atención se proporciona en los centros de salud dentro del sistema de atención primaria?",
+    "options": [
+      "Atención sanitaria preventiva, diagnóstica y terapéutica básica",
+      "Solo atención a urgencias",
+      "Atención especializada para enfermedades graves",
+      "Solo atención a enfermedades crónicas"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cuál es la principal responsabilidad de los hospitales en el Sistema Sanitario Público de Andalucía?",
+    "options": [
+      "Prestar atención sanitaria especializada a pacientes con enfermedades graves o complejas",
+      "Gestionar la atención primaria",
+      "Realizar solo cirugías de urgencia",
+      "Realizar únicamente consultas de salud mental"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cómo se gestionan los servicios de salud mental en Andalucía?",
+    "options": [
+      "A través de un área especializada dentro del Servicio Andaluz de Salud",
+      "A través de hospitales privados",
+      "No se gestionan en Andalucía",
+      "Solo en centros de atención primaria"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué es la Red Andaluza de Medicina Transfusional, Tejidos y Células?",
+    "options": [
+      "Es una red encargada de la gestión y distribución de sangre, tejidos y células",
+      "Una red de hospitales privados",
+      "Un sistema de atención a urgencias",
+      "Una organización para la atención a enfermedades raras"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué función tiene el Biobanco del SSPA en el contexto de la sanidad pública andaluza?",
+    "options": [
+      "Conservar y gestionar muestras biológicas para investigación y tratamiento",
+      "Solo almacenar sangre para transfusiones",
+      "Gestionar los recursos económicos del sistema sanitario",
+      "Ofrecer atención médica especializada"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cuál de las siguientes áreas forma parte de la organización especial dentro del SSPA?",
+    "options": [
+      "Trasplantes",
+      "Medicina estética",
+      "Cirugía plástica",
+      "Atención geriátrica"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué servicios se ofrecen en las Áreas de Gestión Sanitarias en Andalucía?",
+    "options": [
+      "Atención sanitaria integral, planificación y gestión de los servicios sanitarios a nivel local",
+      "Solo atención a urgencias",
+      "Solo consultas de atención primaria",
+      "Atención exclusivamente a pacientes mayores"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué áreas abarca la atención especializada en los hospitales del SSPA?",
+    "options": [
+      "Cirugía, oncología, cardiología, neurología, entre otras especialidades",
+      "Solo atención a enfermedades respiratorias",
+      "Solo atención a urgencias",
+      "Solo atención a pacientes con enfermedades crónicas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué aspecto de la atención sanitaria se aborda en la red de Trasplantes del SSPA?",
+    "options": [
+      "La donación y trasplante de órganos",
+      "Solo el diagnóstico de enfermedades graves",
+      "Solo la prevención de enfermedades infecciosas",
+      "La atención de urgencias médicas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cuál es el objetivo principal del sistema de atención sanitaria en el Servicio Andaluz de Salud?",
+    "options": [
+      "Proporcionar atención integral a la población de manera accesible y equitativa",
+      "Solo atender urgencias médicas",
+      "Atender a pacientes en situación crítica exclusivamente",
+      "Gestionar los recursos económicos del sistema sanitario"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué tipo de atención se realiza en los servicios de Urgencias del SSPA?",
+    "options": [
+      "Atención sanitaria inmediata a pacientes en situaciones de emergencia",
+      "Atención solo a enfermedades crónicas",
+      "Solo diagnóstico de enfermedades graves",
+      "Atención preventiva"
+    ],
+    "correct": 1
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cómo se estructura la atención en los hospitales del SSPA?",
+    "options": [
+      "Se organiza por especialidades médicas y quirúrgicas, atendiendo casos complejos",
+      "Solo por urgencias",
+      "Por edad de los pacientes",
+      "Por tipo de tratamiento farmacológico"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cómo contribuye la Consejería de Salud a la organización sanitaria en Andalucía?",
+    "options": [
+      "Establece políticas sanitarias, coordina servicios y gestiona los recursos del Sistema Sanitario Público",
+      "Solo supervisa hospitales privados",
+      "Solo organiza campañas de prevención",
+      "Solo regula los precios de los medicamentos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cuál es la función del equipo de Atención Primaria dentro del sistema sanitario público?",
+    "options": [
+      "Proveer atención básica de salud, incluyendo prevención, diagnóstico y tratamiento inicial",
+      "Solo atender emergencias",
+      "Solo realizar diagnósticos",
+      "Atender exclusivamente a pacientes con enfermedades graves"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué área se encarga de la coordinación de los trasplantes en el SSPA?",
+    "options": [
+      "La Red Andaluza de Medicina Transfusional, Tejidos y Células",
+      "El sistema de emergencias",
+      "La atención primaria",
+      "Los hospitales privados"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué función tienen los servicios de salud mental dentro del SSPA?",
+    "options": [
+      "Prevenir, diagnosticar y tratar trastornos mentales en la población",
+      "Atender exclusivamente a pacientes con trastornos de la piel",
+      "Atender solo a emergencias",
+      "Solo ofrecer apoyo a familiares de pacientes con enfermedades graves"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué es la asistencia sanitaria pública en Andalucía?",
+    "options": [
+      "Es el conjunto de servicios sanitarios proporcionados a la población por el Sistema Sanitario Público de Andalucía (SSPA)",
+      "Solo es un sistema para atención a mayores",
+      "Es un sistema privado de atención médica",
+      "Solo abarca servicios de urgencias"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué áreas son gestionadas por el Biobanco del SSPA?",
+    "options": [
+      "Conservación de muestras biológicas para la investigación y tratamientos médicos",
+      "Solo atención a personas con cáncer",
+      "Solo investigación sobre enfermedades cardíacas",
+      "Solo recolección de sangre para transfusiones"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Cuál es la principal función de las Áreas de Gestión Sanitarias en Andalucía?",
+    "options": [
+      "Gestionar los recursos y servicios sanitarios de una determinada área geográfica",
+      "Atender solo a pacientes con enfermedades graves",
+      "Proveer únicamente atención primaria",
+      "Ofrecer solo consultas en salud mental"
+    ],
+    "correct": 1
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué tipo de servicios ofrece la Red Andaluza de Medicina Transfusional?",
+    "options": [
+      "Gestión de la donación y distribución de sangre y otros tejidos",
+      "Atención a urgencias médicas",
+      "Atención geriátrica",
+      "Atención sanitaria solo a pacientes crónicos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué característica define la atención en los servicios de Urgencias del SSPA?",
+    "options": [
+      "Atención inmediata a situaciones de emergencia y gravedad",
+      "Atención exclusivamente a enfermedades respiratorias",
+      "Solo diagnóstico de enfermedades infecciosas",
+      "Solo atención a pacientes con enfermedades mentales"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué tipo de pacientes son atendidos por la red de Trasplantes del SSPA?",
+    "options": [
+      "Pacientes que requieren trasplantes de órganos, tejidos o células",
+      "Pacientes con enfermedades respiratorias crónicas",
+      "Pacientes exclusivamente con trastornos mentales",
+      "Pacientes con problemas de visión"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 4 -> Organización sanitaria (II).",
+    "question": "¿Qué tipo de especialidades se gestionan en los hospitales dentro del SSPA?",
+    "options": [
+      "Cirugía, oncología, cardiología, y otras especialidades médicas",
+      "Solo urgencias y emergencias",
+      "Solo cirugía estética",
+      "Solo enfermedades infecciosas"
+    ],
+    "correct": 2
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál es el objetivo principal de la Ley Orgánica 3/2018?",
+    "options": [
+      "Garantizar y proteger los derechos fundamentales en el ámbito digital, especialmente la protección de datos personales",
+      "Facilitar el acceso a la información pública",
+      "Regular la propiedad intelectual",
+      "Promover la privacidad de los datos en empresas privadas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál de los siguientes es un principio de protección de datos según la Ley Orgánica 3/2018?",
+    "options": [
+      "Licitud, lealtad y transparencia",
+      "Confidencialidad absoluta",
+      "No divulgación a terceros",
+      "Exclusividad de uso"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál es el derecho de las personas según la Ley Orgánica 3/2018?",
+    "options": [
+      "El derecho a acceder, rectificar, suprimir, limitar el tratamiento y oponerse al tratamiento de sus datos personales",
+      "El derecho a la indemnización por pérdida de datos",
+      "El derecho a transferir datos entre países",
+      "El derecho a que sus datos sean eliminados de la red"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué establece la Ley Orgánica 3/2018 sobre el tratamiento de datos sensibles?",
+    "options": [
+      "El tratamiento de datos sensibles solo puede realizarse bajo circunstancias muy específicas y con el consentimiento explícito de la persona",
+      "Pueden ser tratados sin ninguna limitación",
+      "Solo se permite su tratamiento en empresas privadas",
+      "No se permite el tratamiento de datos sensibles bajo ninguna circunstancia"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué debe hacer una organización si se produce una violación de la seguridad de los datos personales?",
+    "options": [
+      "Informar a la autoridad de protección de datos y a los afectados si es necesario",
+      "Eliminar los datos sin informar a nadie",
+      "Esperar a que la ley determine qué acciones tomar",
+      "No hacer nada hasta que se recupere la información perdida"
+    ],
+    "correct": 3
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál es el objetivo principal de la Ley Orgánica 3/2018?",
+    "options": [
+      "Garantizar y proteger los derechos fundamentales en el ámbito digital, especialmente la protección de datos personales",
+      "Regular el uso de la información en el sector privado",
+      "Promover la recopilación de datos por parte de empresas públicas",
+      "Facilitar el acceso a la información pública"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál de los siguientes es un principio de protección de datos según la Ley Orgánica 3/2018?",
+    "options": [
+      "Licitud, lealtad y transparencia",
+      "Confidencialidad absoluta",
+      "No divulgación a terceros",
+      "Exclusividad de uso"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál es el derecho de las personas según la Ley Orgánica 3/2018?",
+    "options": [
+      "El derecho a acceder, rectificar, suprimir, limitar el tratamiento y oponerse al tratamiento de sus datos personales",
+      "El derecho a la indemnización por pérdida de datos",
+      "El derecho a transferir datos entre países",
+      "El derecho a que sus datos sean eliminados de la red"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué establece la Ley Orgánica 3/2018 sobre el tratamiento de datos sensibles?",
+    "options": [
+      "El tratamiento de datos sensibles solo puede realizarse bajo circunstancias muy específicas y con el consentimiento explícito de la persona",
+      "Pueden ser tratados sin ninguna limitación",
+      "Solo se permite su tratamiento en empresas privadas",
+      "No se permite el tratamiento de datos sensibles bajo ninguna circunstancia"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué debe hacer una organización si se produce una violación de la seguridad de los datos personales?",
+    "options": [
+      "Informar a la autoridad de protección de datos y a los afectados si es necesario",
+      "Eliminar los datos sin informar a nadie",
+      "Esperar a que la ley determine qué acciones tomar",
+      "No hacer nada hasta que se recupere la información perdida"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cómo deben ser los datos personales, según los principios de la Ley Orgánica 3/2018?",
+    "options": [
+      "Adecuados, pertinentes y limitados a lo necesario en relación con los fines para los que son tratados",
+      "Ampliados para cubrir todas las necesidades de la organización",
+      "Confidenciales y guardados permanentemente",
+      "Solo deben ser procesados por organismos gubernamentales"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué obligación tiene la administración respecto al consentimiento de los datos personales?",
+    "options": [
+      "Obtener el consentimiento explícito e informado de las personas para tratar sus datos personales",
+      "Usar los datos sin consentimiento si es para el bien público",
+      "No es necesario obtener el consentimiento en casos de urgencia",
+      "El consentimiento puede ser implícito en todos los casos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué medida deben tomar las organizaciones para asegurar la protección de los datos personales?",
+    "options": [
+      "Implementar medidas técnicas y organizativas adecuadas para proteger los datos personales",
+      "No tomar ninguna medida adicional",
+      "Solo almacenar los datos durante un corto período de tiempo",
+      "Recoger datos solo de personas adultas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué busca la Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía?",
+    "options": [
+      "Fomentar la transparencia en la gestión pública y garantizar el derecho de acceso a la información pública",
+      "Garantizar la privacidad de los datos en el sector privado",
+      "Regular el uso de datos personales en organismos internacionales",
+      "Promover la confidencialidad en las empresas públicas"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Cuál de los siguientes es un principio básico establecido en la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "options": [
+      "Acceso a la información pública de forma clara, comprensible y accesible",
+      "Restricción total de acceso a documentos públicos",
+      "Privacidad absoluta de la información pública",
+      "Solo la administración central tiene derecho a acceder a la información pública"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué es la publicidad activa según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "options": [
+      "La obligación de las administraciones públicas de publicar información relevante sin que sea solicitada",
+      "La obligación de responder rápidamente a las solicitudes de información",
+      "La posibilidad de ocultar información confidencial",
+      "La divulgación de información solo a través de los medios de comunicación"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué derecho tiene el ciudadano según la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "options": [
+      "El derecho a acceder a la información pública y a recibir una respuesta a sus solicitudes",
+      "El derecho a ocultar información personal",
+      "El derecho a modificar los datos públicos",
+      "El derecho a bloquear el acceso a la información pública"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué fomento de la transparencia establece la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "options": [
+      "La obligación de las administraciones públicas de hacer públicos los documentos y datos más relevantes",
+      "La restricción en la publicación de documentos",
+      "El control gubernamental sobre el acceso a la información",
+      "El anonimato de los ciudadanos que solicitan información pública"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cómo deben tratarse los datos personales según la Ley Orgánica 3/2018?",
+    "options": [
+      "De manera lícita, leal y transparente",
+      "Sin importar las finalidades del tratamiento",
+      "Solo para fines comerciales",
+      "Solo por entidades privadas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué acción debe tomar un organismo si detecta que se está realizando un tratamiento ilegal de datos personales?",
+    "options": [
+      "Interrumpir el tratamiento y adoptar las medidas correctivas necesarias",
+      "Esperar a que el afectado presente una queja formal",
+      "Notificarlo solo a las autoridades locales",
+      "No hacer nada hasta que los datos sean robados"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué debe garantizar la Ley 1/2014 en relación con la información pública?",
+    "options": [
+      "La accesibilidad y publicidad de la información relevante",
+      "La no divulgación de cualquier información pública",
+      "El acceso limitado solo a funcionarios",
+      "El archivo permanente de toda la información pública"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál de los siguientes es un derecho que protege la Ley Orgánica 3/2018?",
+    "options": [
+      "El derecho a la protección de los datos personales",
+      "El derecho a ocultar información personal",
+      "El derecho a modificar información pública",
+      "El derecho a transferir datos sin consentimiento"
+    ],
+    "correct": 1
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué principio se aplica cuando los datos personales se recogen para fines específicos y legítimos?",
+    "options": [
+      "Limitación de la finalidad",
+      "Licitud y transparencia",
+      "Seguridad y confidencialidad",
+      "Accesibilidad"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿En qué circunstancias es necesario obtener el consentimiento explícito de una persona para tratar sus datos personales?",
+    "options": [
+      "Cuando el tratamiento se realiza con fines comerciales",
+      "Cuando el tratamiento afecta a datos sensibles como la salud o la religión",
+      "Cuando se recopilan datos de menores de 16 años",
+      "Cuando el tratamiento es exclusivamente interno de la empresa"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué acción se debe tomar si una persona considera que sus datos están siendo tratados indebidamente?",
+    "options": [
+      "Puede presentar una reclamación ante la autoridad de protección de datos",
+      "Deberá solicitar la eliminación de sus datos inmediatamente",
+      "Debe pedir a la empresa que se le compense por los daños",
+      "No puede hacer nada si la organización lo ha hecho por interés legítimo"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cómo deben proteger las organizaciones los datos personales, según la Ley Orgánica 3/2018?",
+    "options": [
+      "Aplicando medidas técnicas y organizativas adecuadas",
+      "Almacenando los datos en formato físico",
+      "Limitando el acceso solo a las personas internas",
+      "Solo transmitiendo los datos a entidades gubernamentales"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál de los siguientes es un derecho de las personas según la Ley Orgánica 3/2018?",
+    "options": [
+      "El derecho a almacenar los datos sin límite temporal",
+      "El derecho a la rectificación de los datos personales incorrectos",
+      "El derecho a que sus datos sean utilizados solo para fines comerciales",
+      "El derecho a evitar la recopilación de datos sensibles"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuáles son las consecuencias de tratar datos personales de manera ilegal?",
+    "options": [
+      "Puede haber sanciones administrativas y la obligación de reparar los daños causados",
+      "No hay consecuencias, siempre que se informe a los afectados",
+      "Solo se puede sancionar si se ha producido un daño directo a la persona",
+      "Los datos ilegales serán automáticamente eliminados por la autoridad"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Cuál de los siguientes no es un principio de la Ley Orgánica 3/2018?",
+    "options": [
+      "Limitación de la finalidad",
+      "Minimización de datos",
+      "Confidencialidad plena",
+      "Transparencia"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué principio establece la Ley 1/2014 sobre la accesibilidad a la información pública?",
+    "options": [
+      "La información debe ser pública, accesible y comprensible",
+      "Solo debe ser accesible a los funcionarios públicos",
+      "La información debe ser restringida a ciertos usuarios",
+      "Los ciudadanos deben pagar para acceder a la información"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué tipo de información debe ser publicada activamente por las administraciones públicas según la Ley 1/2014?",
+    "options": [
+      "Informes, presupuestos, contratos y otras actuaciones relevantes",
+      "Solo los informes financieros anuales",
+      "Datos que afectan únicamente a la seguridad nacional",
+      "Datos privados de los funcionarios públicos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué derecho tiene cualquier ciudadano respecto a la información pública según la Ley 1/2014?",
+    "options": [
+      "El derecho a modificar la información publicada",
+      "El derecho de acceso a la información pública, sin necesidad de justificar el interés",
+      "El derecho a ocultar la información relevante",
+      "El derecho a prohibir la divulgación de información"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué se entiende por publicidad activa según la Ley 1/2014?",
+    "options": [
+      "La obligación de publicar información relevante sin que sea solicitada",
+      "La divulgación de datos privados de los ciudadanos",
+      "La publicación de información solo bajo solicitud formal",
+      "La ocultación de información sensible"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué se entiende por 'datos personales sensibles' según la Ley Orgánica 3/2018?",
+    "options": [
+      "Cualquier tipo de dato que esté relacionado con una persona",
+      "Datos relacionados con la salud, la ideología o la orientación sexual",
+      "Datos de contacto como teléfono o dirección",
+      "Datos exclusivamente económicos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué debe hacer una entidad si realiza un tratamiento de datos personales de alto riesgo?",
+    "options": [
+      "Realizar una evaluación de impacto sobre la protección de datos",
+      "No es necesario hacer ninguna evaluación si el tratamiento es legítimo",
+      "Solo informar a los afectados después del tratamiento",
+      "Obtener la aprobación de los afectados antes de procesar los datos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué debe garantizar la Ley 1/2014 en cuanto a la difusión de la información pública?",
+    "options": [
+      "La máxima difusión posible de la información pública, siempre que no se afecten otros derechos",
+      "La difusión solo a los ciudadanos con intereses políticos",
+      "La divulgación solo a ciertos medios de comunicación",
+      "La retención de información confidencial para proteger la imagen del gobierno"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales.",
+    "question": "¿Qué derecho tiene una persona sobre sus datos personales según la Ley Orgánica 3/2018?",
+    "options": [
+      "El derecho a vender sus datos",
+      "El derecho a eliminar sus datos sin importar el contexto",
+      "El derecho de acceso a sus datos y a obtener una copia",
+      "El derecho a modificar datos que no le pertenecen"
+    ],
+    "correct": 2
+  },
+
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué derecho tiene cualquier persona en relación con la información pública según la Ley 1/2014?",
+    "options": [
+      "Derecho de acceso a la información pública",
+      "Derecho a modificar la información pública",
+      "Derecho a la censura de información",
+      "Derecho a difundir información pública sin restricciones"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué se entiende por 'publicidad activa' según la Ley 1/2014?",
+    "options": [
+      "La obligación de las administraciones públicas de proporcionar información solo a medios de comunicación",
+      "La obligación de las administraciones públicas de publicar información relevante sin necesidad de solicitud",
+      "La publicación solo de informes económicos",
+      "La obligación de las administraciones públicas de ocultar información sensible"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Cuál es el objetivo de la Ley 1/2014?",
+    "options": [
+      "Garantizar el derecho de acceso a la información pública y fomentar la transparencia",
+      "Regular los procedimientos judiciales relacionados con la administración pública",
+      "Limitar el acceso a la información pública para proteger la privacidad de los funcionarios",
+      "Establecer mecanismos para controlar las publicaciones de los medios de comunicación"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué tipo de información deben publicar las administraciones públicas según la Ley 1/2014?",
+    "options": [
+      "Información sobre sus actividades, documentos y contratos",
+      "Solo la información relacionada con el presupuesto anual",
+      "Solo información relativa a proyectos de infraestructuras",
+      "Solo información que sea solicitada explícitamente por los ciudadanos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué principio establece la Ley 1/2014 en relación con la información pública?",
+    "options": [
+      "Debe ser confidencial y accesible solo a funcionarios públicos",
+      "Solo debe ser pública si lo autoriza el gobierno",
+      "Debe ser accesible solo a los ciudadanos con intereses políticos",
+      "Debe ser pública, accesible y comprensible para todos los ciudadanos"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué entidad tiene la responsabilidad de velar por el cumplimiento de la Ley 1/2014?",
+    "options": [
+      "La Agencia Española de Protección de Datos",
       "El Tribunal Constitucional",
-      "El Senado"
+      "El Consejo de Transparencia y Protección de la Información Pública de Andalucía",
+      "El Ministerio de Transparencia"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué tipo de información no debe publicarse bajo la Ley 1/2014?",
+    "options": [
+      "Informes internos de las empresas públicas",
+      "Aquella que afecte a la seguridad nacional, defensa y relaciones exteriores",
+      "Datos de los ciudadanos sin su consentimiento",
+      "Estadísticas económicas internas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué plazo tienen las administraciones públicas para responder a una solicitud de acceso a la información pública?",
+    "options": ["Un mes", "Dos semanas", "Tres meses", "Dos meses"],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué consecuencias pueden surgir si una administración no cumple con la Ley de Transparencia?",
+    "options": [
+      "Puede ser sancionada por el Consejo de Transparencia",
+      "La información debe ser publicada a pesar de la sanción",
+      "No hay consecuencias legales",
+      "Solo se dará una advertencia sin sanción"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "Según la Constitución, ¿qué forma de gobierno establece España?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Cuál de los siguientes no es un derecho que la Ley 1/2014 garantiza a los ciudadanos?",
     "options": [
-      "Una monarquía parlamentaria",
-      "Una república presidencialista",
-      "Una monarquía absoluta",
-      "Una dictadura militar"
+      "El derecho a modificar la información pública",
+      "El derecho de acceso a la información pública",
+      "El derecho a obtener información sobre el uso de fondos públicos",
+      "El derecho de acceso a los documentos administrativos"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "¿Qué poder tiene la capacidad de interpretar la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Cómo debe garantizarse el acceso a la información pública?",
     "options": [
-      "El Tribunal Constitucional",
-      "El Senado",
-      "El Presidente del Gobierno",
-      "El Congreso de los Diputados"
+      "Solo a través de un formulario escrito",
+      "De manera gratuita y en formatos comprensibles",
+      "Solo en formato físico en las dependencias del gobierno",
+      "Con una tarifa para cubrir los costos administrativos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿A qué tipo de información se refiere la Ley 1/2014 cuando habla de 'información pública'?",
+    "options": [
+      "Solo la información relacionada con el presupuesto público",
+      "Información reservada solo a altos funcionarios",
+      "Cualquier información que esté en posesión de las administraciones públicas",
+      "Solo los datos de los proyectos de infraestructuras"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué debe incluir la información publicada activamente por las administraciones públicas?",
+    "options": [
+      "Solo los contratos de los empleados públicos",
+      "Solo los informes financieros anuales",
+      "Solo las leyes aprobadas",
+      "Los contratos, presupuestos, subvenciones y actividades realizadas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Cómo se denomina la entidad que garantiza la protección de la información pública en Andalucía?",
+    "options": [
+      "El Consejo de Transparencia y Protección de la Información Pública de Andalucía",
+      "El Ministerio de Transparencia Pública",
+      "La Agencia Andaluza de Información",
+      "El Gobierno de Andalucía"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "¿Qué función tiene el Senado según la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Cuál es el plazo máximo para resolver las solicitudes de acceso a la información pública?",
+    "options": ["Un mes", "Tres meses", "Dos semanas", "Dos meses"],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué tipo de información no tiene que ser publicada activamente?",
     "options": [
-      "Ejercer funciones de representación territorial",
-      "Legislar en exclusiva",
-      "Controlar el poder judicial",
-      "Ejercer el poder ejecutivo"
+      "Los contratos de empleados públicos",
+      "La información que afecte a la seguridad nacional o el orden público",
+      "Los informes anuales de transparencia",
+      "Los presupuestos del gobierno local"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué instituciones deben cumplir con la Ley 1/2014 de Transparencia Pública de Andalucía?",
+    "options": [
+      "Todas las administraciones públicas y entidades del sector público andaluz",
+      "Solo las entidades gubernamentales",
+      "Solo las grandes empresas públicas",
+      "Solo los órganos judiciales"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "Según la Constitución Española, ¿quién tiene la facultad de convocar elecciones generales?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué acciones deben tomar las administraciones públicas según la Ley 1/2014?",
     "options": [
-      "El Rey, a propuesta del Presidente del Gobierno",
-      "El Congreso de los Diputados",
-      "El Senado",
-      "El Tribunal Supremo"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "¿Qué establece la Constitución Española acerca del poder judicial?",
-    "options": [
-      "Es independiente de los otros poderes del Estado",
-      "Es controlado por el Congreso",
-      "Es supervisado por el Rey",
-      "Está subordinado al Gobierno"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "¿Qué se entiende por el principio de división de poderes en la Constitución Española?",
-    "options": [
-      "La separación e independencia de los poderes Ejecutivo, Legislativo y Judicial",
-      "El control absoluto del Ejecutivo sobre el Legislativo",
-      "La concentración de todos los poderes en el Congreso",
-      "La subordinación del Judicial al Ejecutivo"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Regulación constitucional de los Poderes Públicos.",
-    "question": "Según la Constitución, el poder ejecutivo se encuentra representado por:",
-    "options": [
-      "El Presidente del Gobierno y su gabinete",
-      "El Tribunal Constitucional",
-      "El Congreso de los Diputados",
-      "El Rey y el Senado"
+      "Publicar la información de manera clara, accesible y comprensible",
+      "Difundir la información solo a los medios de comunicación",
+      "Mantener la información oculta hasta que sea solicitada",
+      "Publicar solo información relacionada con los contratos"
     ],
     "correct": 0
   },
 
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "¿Qué artículo de la Constitución Española regula el derecho a la protección de la salud?",
-    "options": ["Artículo 43", "Artículo 14", "Artículo 20", "Artículo 33"],
-    "correct": 0
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué tipo de información debe garantizar el derecho de acceso a la información pública?",
+    "options": [
+      "Solo la información financiera y presupuestaria",
+      "Toda aquella que se encuentre en poder de las administraciones públicas, salvo excepciones legalmente previstas",
+      "Solo la información sobre contratos públicos",
+      "Información únicamente sobre actividades económicas del gobierno"
+    ],
+    "correct": 1
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "Según la Constitución Española, el derecho a la protección de la salud es:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "Según la Ley 1/2014, ¿qué debe ser accesible al público de forma clara y comprensible?",
     "options": [
-      "Un derecho fundamental",
-      "Un derecho secundario",
-      "Un derecho opcional",
-      "Un derecho no reconocido"
+      "La información sobre la gestión pública",
+      "Los registros de empleados públicos",
+      "Solo los informes económicos de las administraciones",
+      "Los datos fiscales de los ciudadanos"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "¿Qué obligación tienen los poderes públicos según el artículo 43 de la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Cuál es el principio que debe regir la publicidad activa de las administraciones públicas según la Ley 1/2014?",
     "options": [
-      "Promover la salud pública",
-      "Garantizar la libertad de prensa",
-      "Regular la educación",
-      "Controlar la actividad económica"
+      "Debe garantizarse la publicidad de la información relevante sin necesidad de solicitud",
+      "Solo deben publicarse los informes de actividad anual",
+      "Solo se publica información financiera",
+      "La información debe ser oculta hasta ser solicitada explícitamente"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "¿Quién tiene la responsabilidad de garantizar la atención sanitaria pública en España?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué tipo de información está exenta de la Ley 1/2014 en cuanto a la transparencia pública?",
     "options": [
-      "El Estado y las Comunidades Autónomas",
-      "Solo el Gobierno Central",
-      "El Tribunal Supremo",
-      "El Senado"
+      "La información que afecte a la seguridad pública, defensa y relaciones exteriores",
+      "Solo la información relacionada con los presupuestos públicos",
+      "La información sobre las relaciones laborales de los empleados públicos",
+      "La información relativa a proyectos de infraestructuras"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "El derecho a la protección de la salud en España incluye:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué plazo tiene una administración pública para responder a una solicitud de acceso a la información pública?",
+    "options": ["Un mes", "Dos semanas", "Tres meses", "Dos meses"],
+    "correct": 0
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué se entiende por 'acceso a la información pública' según la Ley 1/2014?",
     "options": [
-      "El acceso universal a la asistencia sanitaria",
-      "La elección libre de médicos privados",
-      "El derecho a obtener medicamentos gratuitos",
-      "El derecho a elegir hospital privado"
+      "El derecho a modificar la información pública",
+      "El derecho de solo funcionarios a acceder a la información",
+      "El derecho de cualquier persona a acceder a la información pública en poder de las administraciones públicas",
+      "El derecho de los medios de comunicación a publicar información sin restricciones"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Quién tiene la obligación de cumplir con la Ley 1/2014 sobre transparencia pública?",
+    "options": [
+      "Todas las administraciones públicas y entidades del sector público andaluz",
+      "Solo los organismos públicos regionales",
+      "Solo los órganos gubernamentales nacionales",
+      "Solo los organismos internacionales"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "¿Qué implicaciones tiene el derecho a la protección de la salud según la Constitución Española?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué derecho otorga la Ley 1/2014 en relación con la publicidad activa?",
     "options": [
-      "Implica el derecho a la atención sanitaria en condiciones de igualdad",
-      "Implica la limitación de los servicios sanitarios en función de la economía",
-      "Implica la privatización de los servicios médicos",
-      "Implica la exclusión de servicios para extranjeros"
+      "El derecho a que la información relevante sea publicada de forma periódica y accesible sin necesidad de solicitud",
+      "El derecho a modificar la información publicada por las administraciones",
+      "El derecho a solicitar información sobre cualquier tipo de contrato sin restricción alguna",
+      "El derecho a recibir toda la información sin coste alguno"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "¿Cómo regula la Constitución Española el derecho a la protección de la salud para las personas con discapacidad?",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué órgano es responsable de velar por el cumplimiento de la Ley 1/2014 en Andalucía?",
     "options": [
-      "Garantiza la igualdad de acceso a la atención sanitaria",
-      "Limita el acceso a servicios de salud especializados",
-      "Deja a las Comunidades Autónomas decidir el acceso a la salud",
-      "No menciona ningún aspecto relacionado con la discapacidad"
+      "El Consejo de Transparencia y Protección de la Información Pública de Andalucía",
+      "El Parlamento Andaluz",
+      "El Ministerio de Transparencia Pública",
+      "La Junta de Andalucía"
     ],
     "correct": 0
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "Según la Constitución Española, el derecho a la protección de la salud debe ser:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué información debe ser publicada de manera activa por las administraciones públicas?",
     "options": [
-      "Garantizado por los poderes públicos en igualdad de condiciones para todos los ciudadanos",
-      "Garantizado solo a los ciudadanos con empleo",
-      "Ofrecido de forma gratuita solo a los niños",
-      "Garantizado solo en situaciones de emergencia"
+      "Solo los contratos de infraestructuras",
+      "Contratos, presupuestos, subvenciones, actividades realizadas y documentos relevantes",
+      "Solo los documentos internos sobre el personal",
+      "Solo los informes fiscales"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "El artículo 43 de la Constitución Española establece que los poderes públicos deben fomentar:",
+    "category": "CELADOR/TACE/TER (TEMARIO COMUN)",
+    "topic": "TEMA 5 -> Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.",
+    "question": "¿Qué pasa si una administración no publica la información que corresponde según la Ley 1/2014?",
     "options": [
-      "La mejora de la salud pública",
-      "La privatización de la sanidad",
-      "La competencia entre hospitales privados",
-      "La descentralización de la atención sanitaria"
+      "La información debe ser publicada más tarde sin sanción",
+      "No se toman acciones, ya que es opcional",
+      "Solo se dará una advertencia sin consecuencias",
+      "Puede ser sancionada por el Consejo de Transparencia"
     ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la protección de la salud.",
-    "question": "¿Qué condiciones establece la Constitución Española para la protección de la salud?",
-    "options": [
-      "Deben ser adecuadas y basadas en los avances científicos",
-      "Solo deben aplicarse en situaciones de alta crisis",
-      "Deben estar limitadas a los ciudadanos españoles",
-      "Solo deben garantizarse a las personas mayores"
-    ],
-    "correct": 0
-  },
-
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "¿Qué establece el artículo 14 de la Constitución Española?",
-    "options": [
-      "Que todos los españoles son iguales ante la ley",
-      "Que los ciudadanos deben pagar impuestos según su salario",
-      "Que todos los ciudadanos tienen derecho a elegir su vivienda",
-      "Que los extranjeros no pueden ser discriminados por su nacionalidad"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "Según el artículo 14 de la Constitución Española, ¿en qué situaciones está prohibida la discriminación?",
-    "options": [
-      "Por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social",
-      "Solo por razón de sexo",
-      "Solo por razones económicas",
-      "Por razones de edad"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "¿Qué derecho garantiza la Constitución Española en relación con la igualdad?",
-    "options": [
-      "La igualdad ante la ley y la no discriminación por razones de cualquier índole",
-      "El derecho a la propiedad privada",
-      "El derecho a un juicio justo",
-      "La igualdad en el acceso al empleo público"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "¿Qué implica la igualdad ante la ley según la Constitución Española?",
-    "options": [
-      "Que no puede haber privilegios ni discriminación de ninguna clase",
-      "Que las leyes no deben aplicarse a todas las personas de igual forma",
-      "Que solo los ciudadanos con mayor poder político tienen derechos",
-      "Que los derechos se aplican solo a los ciudadanos de mayor edad"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "El principio de igualdad y no discriminación se aplica a:",
-    "options": [
-      "Todos los ciudadanos sin distinción alguna",
-      "Solo a los ciudadanos con empleo",
-      "Solo a los hombres",
-      "Solo a los ciudadanos que vivan en áreas urbanas"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "¿Qué reconoce la Constitución Española en relación con la mujer y la igualdad?",
-    "options": [
-      "La igualdad de derechos y oportunidades para hombres y mujeres",
-      "La preferencia del hombre en el ámbito laboral",
-      "La igualdad solo en cuanto a la educación",
-      "Que las mujeres no tienen derecho al voto"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "¿Qué medidas deben tomar los poderes públicos para asegurar la igualdad?",
-    "options": [
-      "Promover políticas de igualdad en todos los ámbitos de la vida",
-      "Eliminar todos los impuestos",
-      "Fomentar la desigualdad económica",
-      "Reforzar los derechos de los hombres por encima de los de las mujeres"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "El principio de igualdad recogido en la Constitución Española también implica:",
-    "options": [
-      "El acceso igualitario a la educación, la cultura, y el empleo",
-      "La preferencia de una religión sobre otras",
-      "El derecho a que solo los ricos accedan a servicios públicos",
-      "La discriminación positiva hacia personas con poder político"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "¿Qué establece la Constitución en relación con la discriminación por razón de sexo?",
-    "options": [
-      "Está prohibida y se deben adoptar medidas para erradicarla",
-      "Es permisible en algunos casos laborales",
-      "Se tolera en ámbitos sociales, pero no laborales",
-      "Es permitida solo en el ámbito político"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "Tema 1",
-    "topic": "La Constitución Española de 1978. Estudio del derecho a la igualdad y no discriminación.",
-    "question": "Según la Constitución Española, ¿qué principio se aplica en la interpretación de las leyes?",
-    "options": [
-      "La igualdad ante la ley y la no discriminación",
-      "La protección de la propiedad privada",
-      "La interpretación de las leyes en función de la clase social",
-      "La aplicación de las leyes solo en situaciones de emergencia"
-    ],
-    "correct": 0
+    "correct": 3
   }
 ]
