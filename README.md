@@ -2,7 +2,7 @@
 
 Este repositorio contiene un proyecto de **Aplicación de Cuestionario (App-Quiz)** desarrollado por **BalaZaStudio**. El proyecto está escrito en **TypeScript** y utiliza tecnologías como **JavaScript**, **CSS** y **HTML** para crear una experiencia de cuestionario interactiva.
 
-![App-Quiz Screenshot](https://github.com/BalaZaStudio/Image-ScreenShot/raw/main/image-1.png)
+![App-Quiz Screenshot](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-2.png)
 
 ## 🚀 Puntos Principales de Funcionalidad
 
