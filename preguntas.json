@@ -8537,5 +8537,619 @@
       "Puede desencadenar sanciones legales contra el responsable"
     ],
     "correct": 3
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Cuál es el principio bioético que establece que se debe evitar causar daño al paciente?",
+    "options": ["No maleficencia", "Autonomía", "Beneficencia", "Justicia"],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Qué principio bioético se centra en actuar en beneficio del paciente?",
+    "options": ["No maleficencia", "Autonomía", "Beneficencia", "Justicia"],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Qué implica el principio de Autonomía en la práctica sanitaria?",
+    "options": [
+      "El profesional decide por el paciente",
+      "El paciente tiene derecho a tomar decisiones informadas sobre su propio tratamiento",
+      "Se debe priorizar siempre el criterio médico",
+      "La familia decide por el paciente"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Cuál es el objetivo del principio de Justicia en la Bioética?",
+    "options": [
+      "Garantizar que todos los pacientes sean tratados con igualdad y equidad",
+      "Priorizar a ciertos grupos sociales",
+      "Ignorar las necesidades individuales",
+      "Dejar que el mercado decida la distribución de recursos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Qué significa el término 'bioética'?",
+    "options": [
+      "Un conjunto de normas legales para profesionales sanitarios",
+      "El estudio de los principios morales aplicados a la vida humana y la salud",
+      "Una guía exclusiva para médicos",
+      "Un manual de procedimientos administrativos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Qué principio bioético está relacionado con la equidad en el acceso a los cuidados sanitarios?",
+    "options": ["Autonomía", "Beneficencia", "No maleficencia", "Justicia"],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Cuál es un ejemplo claro de aplicación del principio de Autonomía?",
+    "options": [
+      "Un médico decide por el paciente sin consultarle",
+      "Un familiar toma decisiones médicas sin consultar al paciente",
+      "Un paciente firma un consentimiento informado antes de un procedimiento",
+      "Un profesional ignora las preferencias del paciente"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Qué implica el respeto por la dignidad humana en el ámbito bioético?",
+    "options": [
+      "Priorizar los intereses económicos sobre el bienestar del paciente",
+      "Tratar a todas las personas con igualdad y respeto, reconociendo su valor intrínseco",
+      "Ignorar las diferencias individuales y culturales",
+      "Tomar decisiones sin consultar al paciente"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Qué ocurre cuando los principios bioéticos entran en conflicto?",
+    "options": [
+      "Se debe buscar un equilibrio o consenso entre ellos",
+      "Solo se aplica el principio de No maleficencia",
+      "Se ignora completamente la situación ética",
+      "El paciente no tiene voz en la decisión"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Qué rol juega el principio de Beneficencia en la relación profesional-paciente?",
+    "options": [
+      "Permite que el profesional ignore las necesidades del paciente",
+      "Fomenta la toma de decisiones basadas en prejuicios",
+      "Guía al profesional a actuar siempre en beneficio del paciente",
+      "Limita la autonomía del paciente"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Qué implica el principio de No maleficencia en la práctica clínica?",
+    "options": [
+      "Evitar cualquier acción que pueda causar daño físico o emocional al paciente",
+      "Priorizar los intereses económicos del centro sanitario",
+      "Dejar que el paciente asuma todos los riesgos",
+      "Ignorar las consecuencias de las acciones profesionales"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Principios fundamentales de la Bioética.",
+    "question": "¿Cómo se puede promover el principio de Justicia en la atención sanitaria?",
+    "options": [
+      "Privilegiando a ciertos grupos sociales",
+      "Ignorando las necesidades de los pacientes menos favorecidos",
+      "Dejando que los pacientes resuelvan sus propios conflictos",
+      "Distribuyendo recursos y cuidados de manera equitativa entre todos los pacientes"
+    ],
+    "correct": 3
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué situación puede generar un conflicto ético en la atención sanitaria?",
+    "options": [
+      "Un paciente que rechaza un tratamiento vital por razones personales",
+      "Un paciente que sigue todas las indicaciones médicas sin objeción",
+      "Una revisión rutinaria sin complicaciones",
+      "Un procedimiento administrativo estándar"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Cuál es el primer paso para abordar un conflicto ético en el ámbito sanitario?",
+    "options": [
+      "Ignorar el conflicto y seguir con el procedimiento habitual",
+      "Identificar y analizar las diferentes perspectivas involucradas",
+      "Tomar una decisión unilateral sin consultar a otros profesionales",
+      "Dejar que el paciente resuelva el conflicto por sí mismo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué factor puede contribuir a un conflicto ético entre profesionales sanitarios?",
+    "options": [
+      "Respeto mutuo y comunicación efectiva",
+      "Cumplimiento estricto de protocolos establecidos",
+      "Diferencias en la interpretación de principios bioéticos",
+      "Ausencia de decisiones críticas en el cuidado del paciente"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué rol juega la ética en la toma de decisiones clínicas?",
+    "options": [
+      "Es irrelevante en la práctica diaria",
+      "Guía las acciones para garantizar el bienestar del paciente",
+      "Solo importa en situaciones legales",
+      "Se limita a cumplir órdenes superiores sin cuestionarlas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué estrategia es útil para resolver un conflicto ético en equipo?",
+    "options": [
+      "Consultar a comités de ética o expertos externos cuando sea necesario",
+      "Tomar decisiones arbitrarias sin discusión",
+      "Evitar cualquier tipo de diálogo o negociación",
+      "Imponer la opinión de la persona con mayor jerarquía"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Cuál es un ejemplo de conflicto ético relacionado con la autonomía del paciente?",
+    "options": [
+      "Un paciente acepta un tratamiento después de recibir información completa",
+      "Un familiar toma decisiones médicas sin consultar al paciente",
+      "Un paciente adulto rechaza un tratamiento que podría salvarle la vida",
+      "Un profesional sigue un protocolo estándar sin problemas"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué ocurre cuando entran en conflicto principios bioéticos como Autonomía y No maleficencia?",
+    "options": [
+      "Solo se aplica el principio de No maleficencia",
+      "Se debe buscar un equilibrio que respete ambos principios siempre que sea posible",
+      "El principio de Autonomía se ignora completamente",
+      "La decisión final siempre corresponde al médico"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué habilidad es crucial para resolver conflictos éticos en el ámbito sanitario?",
+    "options": [
+      "Incapacidad para negociar o encontrar soluciones intermedias",
+      "Tendencia a evitar cualquier tipo de confrontación",
+      "Capacidad para la empatía y la escucha activa",
+      "Preferencia por tomar decisiones rápidas sin análisis profundo"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué papel juegan los valores personales de un profesional en la resolución de conflictos éticos?",
+    "options": [
+      "Son irrelevantes y deben ser ignorados por completo",
+      "Deben prevalecer sobre los principios éticos universales",
+      "Deben ser considerados, pero no deben interferir en la decisión profesional",
+      "Siempre deben imponerse sobre los deseos del paciente"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué consecuencia puede tener no abordar adecuadamente un conflicto ético en la atención sanitaria?",
+    "options": [
+      "Mejora en la relación profesional-paciente",
+      "Reducción de los costos económicos del centro sanitario",
+      "Aumento de la satisfacción laboral del equipo",
+      "Daño emocional o físico al paciente"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué significa 'conflicto de intereses' en el contexto sanitario?",
+    "options": [
+      "Una coincidencia de intereses entre todos los involucrados",
+      "Un acuerdo tácito entre profesionales sobre cómo proceder",
+      "Una situación en la que los intereses personales o institucionales chocan con el bienestar del paciente",
+      "Una falta total de implicación emocional en la toma de decisiones"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué medida puede prevenir conflictos éticos en la práctica profesional?",
+    "options": [
+      "Evitar informar a los pacientes sobre sus condiciones",
+      "Limitar la participación de los familiares en decisiones médicas",
+      "Establecer protocolos claros y formación continua en ética",
+      "Ignorar las diferencias culturales y personales de los pacientes"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Cómo se define un dilema ético en el ámbito sanitario?",
+    "options": [
+      "Una circunstancia donde solo hay una solución clara y evidente",
+      "Una situación en la que existen varias opciones válidas, pero ninguna es completamente satisfactoria",
+      "Un problema administrativo sin relevancia ética",
+      "Una decisión que no requiere consulta ni análisis profundo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
+    "question": "¿Qué papel juegan los comités de ética en la resolución de conflictos éticos complejos?",
+    "options": [
+      "Imponen decisiones sin considerar las circunstancias específicas",
+      "Evitan participar en cualquier tipo de discusión o análisis",
+      "Priorizan los intereses económicos por encima de los éticos",
+      "Proporcionan orientación basada en principios éticos y experiencia profesional"
+    ],
+    "correct": 3
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué ley regula el ejercicio profesional de los/las Técnicos/as en Cuidados Auxiliares de Enfermería en España?",
+    "options": [
+      "Ley General de Sanidad",
+      "Orden ministerial sobre funciones y competencias",
+      "Ley Orgánica de Protección de Datos",
+      "Ley de Cohesión y Calidad del Sistema Nacional de Salud"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué documento establece las funciones y responsabilidades específicas de los/las TCAE?",
+    "options": [
+      "Código Penal",
+      "Orden ministerial sobre funciones y competencias",
+      "Constitución Española",
+      "Ley de Propiedad Intelectual"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué normativa regula la protección de datos personales en el ámbito sanitario?",
+    "options": [
+      "Ley General de Sanidad",
+      "Código Deontológico de los Profesionales Sanitarios",
+      "Ley Orgánica de Protección de Datos (LOPD)",
+      "Ley de Propiedad Industrial"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué implica el cumplimiento de las normas legales en la práctica profesional?",
+    "options": [
+      "Priorizar intereses económicos por encima del bienestar del paciente",
+      "Proteger los derechos y garantías del paciente",
+      "Ignorar las necesidades individuales del paciente",
+      "Evitar la documentación clínica"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué consecuencia puede tener violar las normas legales en el ámbito profesional?",
+    "options": [
+      "Reconocimiento público",
+      "Promoción laboral",
+      "Sanciones administrativas o penales",
+      "Ninguna consecuencia"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué papel juegan los códigos deontológicos en la práctica profesional?",
+    "options": [
+      "Guiar la conducta ética y profesional del trabajador",
+      "Limitarse a aspectos administrativos",
+      "Ignorar los derechos del paciente",
+      "Priorizar intereses económicos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué ley regula la atención sanitaria en el Sistema Nacional de Salud?",
+    "options": [
+      "Ley General de Sanidad",
+      "Ley de Cohesión y Calidad del Sistema Nacional de Salud",
+      "Ley de Propiedad Intelectual",
+      "Ley Orgánica de Protección de Datos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué obligaciones tienen los profesionales sanitarios respecto al consentimiento informado?",
+    "options": [
+      "Obtener el consentimiento sin proporcionar información",
+      "Dejar que el familiar decida por el paciente",
+      "Evitar documentar el consentimiento",
+      "Informar al paciente de manera clara y detallada antes de cualquier procedimiento"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué significa el deber de confidencialidad para los/las profesionales sanitarios/as?",
+    "options": [
+      "Compartir información con terceros sin consentimiento",
+      "Publicar casos clínicos en redes sociales",
+      "Proteger la privacidad de los datos personales y médicos del paciente",
+      "Discutir historias clínicas en espacios públicos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué ocurre si se viola el deber de confidencialidad intencionalmente?",
+    "options": [
+      "No tiene ninguna consecuencia",
+      "Se considera una buena práctica",
+      "Puede acarrear sanciones legales y profesionales",
+      "Se premia con ascensos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué papel juega la Ley de Autonomía del Paciente en la práctica profesional?",
+    "options": [
+      "Permitir que los profesionales decidan por el paciente",
+      "Garantizar que los pacientes tomen decisiones informadas sobre su tratamiento",
+      "Ignorar las preferencias del paciente",
+      "Priorizar siempre el criterio médico"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué medidas deben tomarse para cumplir con la normativa sobre protección de datos?",
+    "options": [
+      "Compartir datos sin restricciones",
+
+      "Dejar documentos sensibles a la vista",
+      "Uso de sistemas seguros de almacenamiento y acceso restringido a la información",
+      "Discutir información personal en lugares públicos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> Normas legales de ámbito profesional.",
+    "question": "¿Qué implica el incumplimiento de las normas legales en materia de salud pública?",
+    "options": [
+      "Reconocimiento por parte de las autoridades",
+      "Beneficios económicos para el centro sanitario",
+      "Aumento de la confianza del paciente",
+      "Sanciones administrativas o penales según la gravedad"
+    ],
+    "correct": 3
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué define el secreto profesional en el ámbito sanitario?",
+    "options": [
+      "La libertad para compartir datos con terceros sin restricciones",
+      "La necesidad de informar a todos los familiares sobre el estado del paciente",
+      "La obligación de proteger la información personal y médica del paciente",
+      "La posibilidad de divulgar información cuando sea conveniente"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué ley regula principalmente el deber de confidencialidad en España?",
+    "options": [
+      "Código Penal",
+      "Ley General de Sanidad",
+      "Ley Orgánica de Protección de Datos Personales",
+      "Constitución Española"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿En qué casos puede romperse el secreto profesional legalmente?",
+    "options": [
+      "Cuando existe un riesgo inminente para la vida o salud de terceros",
+      "Para compartir información con amigos o familiares del paciente",
+      "Cuando el profesional considere que es conveniente",
+      "En cualquier momento, sin justificación"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué tipo de información está protegida bajo el secreto profesional?",
+    "options": [
+      "Solo los datos financieros del paciente",
+      "Información pública disponible en redes sociales",
+      "Comentarios personales del profesional",
+      "Datos personales, médicos y cualquier otra información confidencial del paciente"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Quién puede acceder a la información protegida por el secreto profesional?",
+    "options": [
+      "Cualquier persona interesada",
+      "Solo el paciente o sus representantes legales autorizados",
+      "Todos los empleados del centro sanitario",
+      "Los medios de comunicación"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué consecuencia puede tener violar el secreto profesional?",
+    "options": [
+      "Reconocimiento público por parte del centro sanitario",
+      "Promoción laboral",
+      "Sanciones administrativas, penales o profesionales",
+      "Ninguna consecuencia"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué medidas deben tomarse para proteger la información confidencial?",
+    "options": [
+      "Dejar documentos sensibles a la vista",
+      "Compartir información por correo electrónico sin cifrar",
+      "Uso de sistemas seguros de almacenamiento y acceso restringido",
+      "Discutir historias clínicas en lugares públicos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué implica el consentimiento informado en relación con el secreto profesional?",
+    "options": [
+      "El paciente autoriza explícitamente la divulgación de su información",
+      "El profesional decide cuándo compartir información sin consultar al paciente",
+      "Se ignora el derecho del paciente a mantener su privacidad",
+      "No requiere ninguna documentación oficial"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué ocurre si un tercero no autorizado accede a datos confidenciales?",
+    "options": [
+      "No tiene ninguna repercusión legal",
+      "Puede desencadenar sanciones legales contra el responsable de la fuga de información",
+      "Se considera una práctica común en el ámbito sanitario",
+      "Se premia al tercero por su descubrimiento"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué papel juega el Código Deontológico en la regulación del secreto profesional?",
+    "options": [
+      "Permite compartir información sin restricciones",
+      "Ignora completamente el concepto de secreto profesional",
+      "Prioriza los intereses económicos sobre el bienestar del paciente",
+      "Establece normas éticas que guían el cumplimiento del deber de confidencialidad"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué debe hacer un/a profesional si recibe una solicitud judicial para divulgar información confidencial?",
+    "options": [
+      "Cumplir con la solicitud siempre que esté debidamente fundamentada",
+      "Negarse siempre a proporcionar información confidencial",
+      "Divulgar toda la información sin verificar la solicitud",
+      "Decidir por cuenta propia qué información divulgar"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué significa la confidencialidad en el contexto del secreto profesional?",
+    "options": [
+      "Compartir información con colegas sin restricciones",
+      "Publicar datos del paciente en redes sociales",
+      "Garantizar que la información del paciente se maneje de manera segura y respetuosa",
+      "Ignorar las preferencias del paciente respecto a su privacidad"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 14 -> El secreto profesional: Concepto y regulación jurídica.",
+    "question": "¿Qué rol tienen los/las Técnicos/as en Cuidados Auxiliares de Enfermería en el cumplimiento del secreto profesional?",
+    "options": [
+      "No están sujetos/as a la obligación de confidencialidad",
+      "Pueden compartir información con quien lo solicite",
+      "Son responsables de proteger la información confidencial del mismo modo que otros profesionales sanitarios",
+      "Solo deben preocuparse por tareas administrativas"
+    ],
+    "correct": 2
   }
 ]
