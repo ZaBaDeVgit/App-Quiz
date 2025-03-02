@@ -8826,7 +8826,6 @@
     "correct": 1
   },
 
-
   {
     "category": "TCAE (TEMARIO ESPECÍFICO)",
     "topic": "Tema 14 -> Normas legales de ámbito profesional.",
@@ -9140,5 +9139,510 @@
       "Solo deben preocuparse por tareas administrativas"
     ],
     "correct": 2
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué se entiende por infección nosocomial?",
+    "options": [
+      "Una infección adquirida en un ambiente comunitario",
+      "Una infección contraída durante la estancia en un centro sanitario",
+      "Una infección genética heredada",
+      "Una infección viral exclusivamente"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Cuál es el primer eslabón de la cadena epidemiológica de una infección?",
+    "options": [
+      "El agente patógeno",
+      "El medio de transmisión",
+      "El huésped susceptible",
+      "La superficie contaminada"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué medida es fundamental para romper la cadena epidemiológica?",
+    "options": [
+      "Evitar el lavado de manos",
+      "Implementar barreras higiénicas adecuadas",
+      "Ignorar el uso de EPIs",
+      "Limitar el uso de desinfectantes"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de barrera higiénica es esencial para prevenir infecciones nosocomiales?",
+    "options": [
+      "Evitar el contacto con pacientes",
+      "No limpiar superficies",
+      "Uso correcto de guantes",
+      "Usar mascarillas solo cuando sea obligatorio"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué procedimiento es clave para reducir el riesgo de infecciones nosocomiales?",
+    "options": [
+      "Uso indiscriminado de antibióticos",
+      "Evitar el contacto con familiares",
+      "Lavado de manos adecuado",
+      "Limitar el uso de agua"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué papel juega el personal TCAE en la prevención de infecciones nosocomiales?",
+    "options": [
+      "Dejar que otros profesionales asuman la responsabilidad",
+      "Ignorar las normas de seguridad",
+      "Evitar el uso de equipos de protección",
+      "Cumplir estrictamente protocolos de higiene"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Cuál es el propósito del lavado de manos en la práctica clínica?",
+    "options": [
+      "Mostrar profesionalidad",
+      "Aumentar el tiempo de atención al paciente",
+      "Reducir el uso de guantes",
+      "Eliminar microorganismos transmisibles"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se utiliza para prevenir enfermedades transmitidas por contacto directo?",
+    "options": [
+      "Aislamiento de contacto",
+      "Aislamiento airborne",
+      "Aislamiento gotitas",
+      "Aislamiento universal"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué equipo de protección individual (EPI) es obligatorio al manipular fluidos biológicos?",
+    "options": [
+      "Mascarilla quirúrgica",
+      "Gafas de protección",
+      "Guantes",
+      "Chaleco reflectante"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se recomienda para enfermedades transmitidas por aerosoles?",
+    "options": [
+      "Aislamiento de contacto",
+      "Aislamiento airborne",
+      "Aislamiento gotitas",
+      "Aislamiento universal"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué procedimiento debe seguirse antes de usar guantes en un contexto sanitario?",
+    "options": [
+      "Lavarse las manos",
+      "No lavarse las manos",
+      "Usar alcohol gel después de ponerse los guantes",
+      "Evitar el contacto con superficies limpias"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué característica tienen las infecciones nosocomiales?",
+    "options": [
+      "Se desarrollan tras 48 horas de ingreso hospitalario",
+      "Son siempre virales",
+      "No requieren tratamiento específico",
+      "Solo afectan a pacientes ambulatorios"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué medida es crucial para prevenir la transmisión de infecciones en unidades críticas?",
+    "options": [
+      "Evitar el uso de mascarillas",
+      "Limitar el acceso a familiares",
+      "Reducción del personal",
+      "Desinfección regular de superficies"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se aplica para enfermedades transmitidas por gotitas respiratorias?",
+    "options": [
+      "Aislamiento airborne",
+      "Aislamiento gotitas",
+      "Aislamiento de contacto",
+      "Aislamiento universal"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué importancia tiene el uso adecuado de EPIs en la prevención de infecciones?",
+    "options": [
+      "Reduce significativamente el riesgo de exposición a agentes patógenos",
+      "No tiene impacto en la prevención",
+      "Incrementa el riesgo de contagio",
+      "Es opcional según el profesional"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de mascarilla se utiliza para proteger contra enfermedades transmitidas por aerosoles?",
+    "options": [
+      "Mascarilla quirúrgica estándar",
+      "Mascarilla de tela",
+      "Mascarilla FFP2 o N95",
+      "Mascarilla decorativa"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué procedimiento debe realizarse después de retirar los guantes usados?",
+    "options": [
+      "Reutilizar los guantes sin lavarse las manos",
+      "Guardar los guantes para su reutilización",
+      "Evitar tocar superficies limpias",
+      "Lavarse las manos"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué significa implementar 'barreras higiénicas' en un centro sanitario?",
+    "options": [
+      "Ignorar las normas de higiene",
+      "Aplicar medidas de control para evitar la transmisión de infecciones",
+      "Evitar el uso de productos desinfectantes",
+      "Limitar el acceso a pacientes"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué rol juegan los TCAE en la identificación de posibles focos de infección?",
+    "options": [
+      "Ignorar síntomas leves",
+      "Reportar signos sospechosos a supervisores",
+      "Dejar que los médicos lo detecten",
+      "Evitar documentar incidentes"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de desinfección es adecuada para superficies en áreas críticas?",
+    "options": [
+      "Limpieza superficial con agua",
+      "Evitar la limpieza frecuente",
+      "Desinfección con productos específicos",
+      "Usar detergentes domésticos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué consecuencia tiene no cumplir con las normas de prevención de infecciones?",
+    "options": [
+      "Mejora en la eficiencia laboral",
+      "Reducción de costos hospitalarios",
+      "Incremento del riesgo de contagio",
+      "Aumento de la satisfacción del paciente"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué importancia tiene la capacitación continua en prevención de infecciones?",
+    "options": [
+      "No influye en la calidad de los cuidados",
+      "Aumenta el estrés laboral",
+      "Actualiza conocimientos y mejora prácticas preventivas",
+      "Disminuye la motivación del personal"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se aplica para casos de tuberculosis activa?",
+    "options": [
+      "Aislamiento de contacto",
+      "Aislamiento airborne",
+      "Aislamiento gotitas",
+      "Aislamiento universal"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué medida es efectiva para prevenir infecciones relacionadas con catéteres intravenosos?",
+    "options": [
+      "Cambiar los catéteres diariamente",
+      "Mantener la esterilidad del sitio de inserción",
+      "Evitar el uso de antisépticos",
+      "Limitar la movilización del paciente"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué factor puede aumentar el riesgo de infecciones nosocomiales?",
+    "options": [
+      "Uso inadecuado de EPIs",
+      "Cumplimiento estricto de protocolos",
+      "Limpieza regular de áreas comunes",
+      "Capacitación continua del personal"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué procedimiento debe seguirse ante un derrame de sangre en una superficie?",
+    "options": [
+      "Limpiar y desinfectar la superficie afectada",
+      "Ignorar el derrame si parece menor",
+      "Dejar que se seque naturalmente",
+      "Evitar notificar el incidente"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué importancia tiene el lavado de manos en la prevención de infecciones?",
+    "options": [
+      "Es opcional según el contexto",
+      "No tiene impacto en la salud pública",
+      "Es una medida clave para reducir la transmisión de gérmenes",
+      "Aumenta el riesgo de infecciones"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se aplica para casos de sarampión?",
+    "options": [
+      "Aislamiento de contacto",
+      "Aislamiento gotitas",
+      "Aislamiento universal",
+      "Aislamiento airborne"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué equipo de protección es necesario para procedimientos que generen aerosoles?",
+    "options": [
+      "Guantes quirúrgicos",
+      "Mascarilla FFP2 o N95",
+      "Chaleco reflectante",
+      "Casco protector"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se recomienda para pacientes con gripe?",
+    "options": [
+      "Aislamiento airborne",
+      "Aislamiento gotitas",
+      "Aislamiento de contacto",
+      "Aislamiento universal"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué importancia tiene la ventilación en áreas de aislamiento?",
+    "options": [
+      "Reduce el riesgo de transmisión de enfermedades airborne",
+      "No influye en la prevención de infecciones",
+      "Aumenta el riesgo de contagio",
+      "Es irrelevante en contextos sanitarios"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de desinfectante es recomendable para manos en ausencia de visibilidad de suciedad?",
+    "options": [
+      "Agua y jabón",
+      "Cloro diluido",
+      "Solución a base de alcohol",
+      "Productos caseros"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se aplica para casos de hepatitis B?",
+    "options": [
+      "Aislamiento airborne",
+      "Aislamiento gotitas",
+      "Aislamiento universal",
+      "Aislamiento de contacto"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué importancia tiene el monitoreo de indicadores de infección en hospitales?",
+    "options": [
+      "No influye en la calidad de los cuidados",
+      "Aumenta la carga de trabajo sin beneficio",
+      "Es opcional según el centro",
+      "Permite identificar tendencias y mejorar estrategias preventivas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se utiliza para prevenir enfermedades transmitidas por contacto indirecto?",
+    "options": [
+      "Aislamiento airborne",
+      "Aislamiento de contacto",
+      "Aislamiento gotitas",
+      "Aislamiento universal"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué procedimiento debe seguirse al manipular residuos infectados?",
+    "options": [
+      "Dejarlos en áreas comunes",
+      "Descartarlos en contenedores específicos",
+      "Reutilizarlos sin desinfección",
+      "Ignorar su manejo adecuado"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué importancia tiene el uso correcto de EPIs en la atención a pacientes inmunodeprimidos?",
+    "options": [
+      "No tiene relevancia en estos casos",
+      "Aumenta el riesgo de infecciones",
+      "Protege tanto al paciente como al personal",
+      "Es opcional según el criterio del profesional"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se aplica para casos de meningitis bacteriana?",
+    "options": [
+      "Aislamiento airborne",
+      "Aislamiento de contacto",
+      "Aislamiento gotitas",
+      "Aislamiento universal"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué medida es efectiva para prevenir infecciones asociadas a dispositivos invasivos?",
+    "options": [
+      "Evitar el monitoreo regular",
+      "Mantener la esterilidad de los dispositivos",
+      "Limitar el uso de antisépticos",
+      "Dejar los dispositivos sin inspección"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué importancia tiene la capacitación del personal en prevención de infecciones?",
+    "options": [
+      "No influye en la práctica diaria",
+      "Fortalece las competencias y mejora la seguridad",
+      "Aumenta el estrés laboral",
+      "Es irrelevante en contextos modernos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué tipo de aislamiento se recomienda para casos de MRSA (Staphylococcus aureus resistente a meticilina)?",
+    "options": [
+      "Aislamiento de contacto",
+      "Aislamiento airborne",
+      "Aislamiento gotitas",
+      "Aislamiento universal"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 15 -> Infecciones Nosocomiales.",
+    "question": "¿Qué consecuencia tiene no desinfectar adecuadamente instrumental médico?",
+    "options": [
+      "Mejora en la eficiencia operativa",
+      "Reducción de costos hospitalarios",
+      "Aumento de la satisfacción del paciente",
+      "Incremento del riesgo de infecciones cruzadas"
+    ],
+    "correct": 3
   }
 ]
