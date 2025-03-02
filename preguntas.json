@@ -8052,5 +8052,141 @@
       "Fatiga visual"
     ],
     "correct": 3
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué tipo de lesión puede derivarse de mantener posturas inadecuadas durante largos periodos?",
+    "options": [
+      "Lesiones por esfuerzo repetitivo",
+      "Traumatismos craneales",
+      "Quemaduras químicas",
+      "Problemas visuales"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué medida preventiva es crucial al trabajar con sustancias químicas peligrosas?",
+    "options": [
+      "Evitar leer las etiquetas de advertencia",
+
+      "Manipularlas sin guantes ni protección",
+      "Almacenarlas en cualquier lugar disponible",
+      "Usar equipo de protección personal adecuado"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Cuál es un factor que puede aumentar el riesgo de agresiones en profesionales sanitarios?",
+    "options": [
+      "Trabajar en entornos mal iluminados",
+      "Atender pacientes o familiares alterados sin apoyo",
+      "Mantener una actitud amable y profesional",
+      "Utilizar equipos mecánicos para traslados"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué procedimiento debe seguirse ante un derrame de material biológico potencialmente contaminante?",
+    "options": [
+      "Dejarlo para limpiar más tarde",
+      "Limpiarlo con agua y jabón siguiendo protocolos de seguridad",
+      "Ignorarlo si parece menor",
+      "Cubrirlo con papel y continuar trabajando"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo específico está asociado con la exposición prolongada a vibraciones?",
+    "options": [
+      "Sordera ocupacional",
+      "Síndrome del túnel carpiano",
+      "Enfermedades vasculares periféricas",
+      "Problemas digestivos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué aspecto es clave para prevenir el estrés térmico en entornos hospitalarios?",
+    "options": [
+      "Evitar usar aire acondicionado",
+
+      "Permitir temperaturas extremas sin control",
+      "Asegurar condiciones ambientales adecuadas",
+      "Limitar el uso de uniformes protectorios"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué tipo de riesgo laboral está relacionado con la falta de descanso adecuado?",
+    "options": [
+      "Fatiga crónica",
+      "Lesiones por levantamiento de pesos",
+      "Transmisión de enfermedades infecciosas",
+      "Problemas respiratorios"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué medida es efectiva para reducir el riesgo de caídas en el entorno hospitalario?",
+    "options": [
+      "Evitar señalizar áreas resbaladizas",
+
+      "Dejar obstáculos en pasillos y salas",
+      "Permitir que los cables estén sueltos en el suelo",
+      "Colocar alfombras antideslizantes en zonas críticas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo específico enfrentan los/las Técnicos/as en Cuidados Auxiliares de Enfermería al manipular instrumental quirúrgico?",
+    "options": [
+      "Lesiones por pinchazos o cortes",
+      "Exposición a radiaciones ionizantes",
+      "Problemas auditivos",
+      "Dermatitis por contacto"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué procedimiento debe realizarse antes de iniciar cualquier actividad que implique riesgos biológicos?",
+    "options": [
+      "Saltarse los protocolos de seguridad",
+      "Realizar una evaluación de riesgos y tomar medidas preventivas",
+      "No informar a los compañeros sobre los posibles riesgos",
+      "Ignorar el uso de equipo de protección personal"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo está asociado con la exposición prolongada a fuentes de luz artificial intensa?",
+    "options": [
+      "Lesiones musculoesqueléticas",
+      "Transmisión de enfermedades infecciosas",
+      "Problemas digestivos",
+      "Fatiga visual y molestias oculares"
+    ],
+    "correct": 3
   }
 ]
