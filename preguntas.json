@@ -6868,7 +6868,6 @@
     "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
     "question": "¿Qué papel juega la confidencialidad en la relación médico-paciente?",
     "options": [
-     
       "Facilitar el acceso público a información personal",
       "Disminuir la calidad de la atención sanitaria",
       "Fortalecer la confianza mediante la protección de datos sensibles",
@@ -6881,7 +6880,6 @@
     "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
     "question": "¿Qué beneficio proporciona el Plan de Humanización del Sistema Sanitario Público de Andalucía?",
     "options": [
-   
       "Reducir el número de empleados en hospitales",
       "Eliminar la necesidad de registros digitales",
       "Centrarse únicamente en la tecnología médica",
@@ -6943,7 +6941,6 @@
     "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
     "question": "¿Qué desafío enfrentan los sistemas de información sanitaria en términos de confidencialidad?",
     "options": [
-   
       "Evitar el uso de tecnologías modernas",
       "Desalentar la colaboración entre profesionales",
       "Reducir la cantidad de información registrada",
@@ -6968,7 +6965,6 @@
     "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
     "question": "¿Qué característica distingue a la Base de Datos de Usuarios (BDU) en el contexto sanitario?",
     "options": [
-    
       "Su exclusividad para uso externo",
       "Su capacidad para almacenar grandes volúmenes de datos estructurados",
       "Su incompatibilidad con otros sistemas informáticos",
@@ -6981,7 +6977,6 @@
     "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
     "question": "¿Qué impacto tiene la confidencialidad en la calidad de la atención sanitaria?",
     "options": [
-     
       "Genera desconfianza entre los pacientes",
       "Reduce la eficacia de los tratamientos médicos",
       "Aumenta la confianza y colaboración entre pacientes y profesionales",
@@ -6994,7 +6989,6 @@
     "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
     "question": "¿Qué aspecto aborda el Plan de Humanización del Sistema Sanitario Público de Andalucía?",
     "options": [
-
       "El aumento de precios en servicios sanitarios",
       "La eliminación de todos los registros digitales",
       "La mejora en la relación interpersonal entre profesionales y pacientes",
@@ -7019,11 +7013,543 @@
     "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
     "question": "¿Qué importancia tiene el registro de incidencias en la gestión de la seguridad del paciente?",
     "options": [
-    
       "No tiene ninguna utilidad práctica en la atención sanitaria",
       "Sirve como herramienta clave para analizar patrones y mejorar procesos",
       "Solo sirve para cumplir requisitos legales sin beneficio real",
       "Se utiliza únicamente para evaluar el desempeño individual"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Cuál es el propósito principal de la Historia Digital de Salud del ciudadano?",
+    "options": [
+      "Facilitar la comunicación entre hospitales",
+      "Centralizar toda la información clínica del paciente",
+      "Proporcionar entretenimiento a los pacientes",
+      "Gestionar los recursos financieros del sistema sanitario"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué función cumple la Base de Datos de Usuarios (BDU) en el sistema sanitario?",
+    "options": [
+      "Controlar el acceso a instalaciones hospitalarias",
+      "Almacenar y gestionar datos personales de los usuarios",
+      "Registrar ventas de medicamentos",
+      "Ofrecer servicios de telemedicina"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué implica la confidencialidad en los sistemas de información sanitaria?",
+    "options": [
+      "Proteger los datos personales del paciente",
+      "Compartir información con terceros sin consentimiento",
+      "Publicar estadísticas generales sobre enfermedades",
+      "Permitir el acceso indiscriminado a historias clínicas"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué aborda principalmente el Plan de Humanización del Sistema Sanitario Público de Andalucía?",
+    "options": [
+      "La mejora de la relación interpersonal entre profesionales y pacientes",
+      "El aumento de ingresos por servicios sanitarios",
+      "La eliminación de registros digitales",
+      "La reducción de horarios laborales"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué caracteriza a un evento adverso en la atención sanitaria?",
+    "options": [
+      "Un incidente que no tiene impacto en el paciente",
+      "Un error o fallo que puede causar daño al paciente",
+      "Una mejora en los procesos asistenciales",
+      "Un reconocimiento público a un profesional sanitario"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Cuál es el objetivo principal del registro de incidencias en seguridad del paciente?",
+    "options": [
+      "Promocionar servicios sanitarios",
+      "Documentar eventos adversos para prevenir futuros incidentes",
+      "Evaluar únicamente el desempeño individual",
+      "Limitar la responsabilidad del hospital"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué tipo de medidas pueden implementarse para mejorar la seguridad del paciente?",
+    "options": [
+      "Ignorar sistemáticamente cualquier incidente reportado",
+      "Implementar protocolos claros y proporcionar formación continua",
+      "Depender exclusivamente de la tecnología para resolver problemas",
+      "Reducir el número de profesionales en la plantilla"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué significa identificar las causas raíz de un evento adverso?",
+    "options": [
+      "Determinar las razones fundamentales que llevaron al incidente",
+      "Ignorar sistemáticamente cualquier incidente reportado",
+      "Priorizar los intereses económicos por encima de la seguridad",
+      "Depender únicamente de la tecnología para resolver problemas"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué papel juega la tecnología en la prevención de eventos adversos?",
+    "options": [
+      "Incrementar el riesgo de fallos técnicos",
+      "Facilitar la detección temprana y gestión de errores",
+      "Sustituir completamente la intervención humana",
+      "Limitar el acceso a la información crítica"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué beneficio ofrece la Historia Digital de Salud respecto a métodos tradicionales?",
+    "options": [
+      "Mayor accesibilidad y compartición segura de datos",
+      "Menor precisión en la documentación médica",
+      "Dificultad en compartir información entre profesionales",
+      "Aumento en el tiempo necesario para registrar datos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué desafío enfrentan los sistemas de información en cuanto a ciberseguridad?",
+    "options": [
+      "Evitar el uso de tecnologías avanzadas",
+      "Proteger datos frente a ataques informáticos",
+      "Descartar completamente el almacenamiento digital",
+      "Reducción de recursos humanos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué impacto tiene la confidencialidad en la calidad de la atención sanitaria?",
+    "options": [
+      "Genera desconfianza entre los pacientes",
+      "Reduce la eficacia de los tratamientos médicos",
+      "Compromete la seguridad del personal sanitario",
+      "Aumenta la confianza y colaboración entre pacientes y profesionales"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué característica distingue a la Base de Datos de Usuarios (BDU) en el contexto sanitario?",
+    "options": [
+      "Su limitación al almacenamiento de datos financieros",
+      "Su incompatibilidad con otros sistemas informáticos",
+      "Su capacidad para almacenar grandes volúmenes de datos estructurados",
+      "Su exclusividad para uso externo"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Cuál es el beneficio principal del registro sistemático de incidencias?",
+    "options": [
+      "Evaluar únicamente el desempeño individual",
+      "Cumplir requisitos legales sin beneficio práctico",
+      "Limitar la responsabilidad del hospital",
+      "Analizar patrones y mejorar procesos para evitar futuros incidentes"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué aspecto aborda la estrategia de seguridad del paciente en términos de prevención?",
+    "options": [
+      "Permitir que los errores ocurran sin intervención",
+      "Evitar errores mediante capacitación y análisis de riesgos",
+      "Depender exclusivamente de los sistemas informáticos",
+      "Ignorar las recomendaciones de expertos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué rol tiene el personal sanitario en la prevención de eventos adversos?",
+    "options": [
+      "Esperar instrucciones sin actuar proactivamente",
+      "Reportar incidentes y participar activamente en mejoras",
+      "Limitarse únicamente a tareas administrativas",
+      "Evitar cualquier contacto con los pacientes"
+    ],
+    "correct": 1
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué caracteriza al trabajo en equipo multidisciplinar en el ámbito sanitario?",
+    "options": [
+      "La participación exclusiva de médicos",
+
+      "El aislamiento de cada especialidad",
+      "La colaboración entre profesionales de distintas áreas para un objetivo común",
+      "La falta de coordinación entre departamentos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Cuál es el propósito principal del proceso de integración en un equipo de trabajo?",
+    "options": [
+      "Promover la competencia entre miembros",
+      "Facilitar la cooperación y entendimiento mutuo",
+      "Aumentar la rivalidad interna",
+      "Limitar la comunicación entre los equipos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué habilidad es fundamental para mejorar la motivación en un equipo de trabajo?",
+    "options": [
+      "Ignorar las opiniones de los demás",
+
+      "Evitar la retroalimentación constructiva",
+      "Reconocer y valorar los logros individuales",
+      "Fomentar la indiferencia hacia los objetivos comunes"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué tipo de comunicación se basa en el uso del lenguaje verbal y no verbal para transmitir información?",
+    "options": [
+      "Comunicación intrapersonal",
+      "Comunicación masiva",
+      "Comunicación organizacional",
+      "Comunicación interpersonal"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Cuál es una característica clave de la empatía en la comunicación?",
+    "options": [
+      "Ponerse en el lugar del otro para entender sus emociones",
+      "Ignorar las emociones del interlocutor",
+      "Mostrar indiferencia ante las necesidades del paciente",
+      "Priorizar únicamente aspectos técnicos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué habilidad es esencial para desarrollar una escucha activa?",
+    "options": [
+      "Mostrar interés genuino por lo que dice el otro",
+      "Desestimar las ideas del otro",
+      "Evitar hacer preguntas para aclarar dudas",
+      "Interrumpir constantemente al interlocutor"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Cuál es un beneficio del control del estrés en el entorno laboral?",
+    "options": [
+      "Incremento en el absentismo laboral",
+      "Reducción de la calidad en los cuidados",
+      "Aumento de conflictos interpersonales",
+      "Mejora en la productividad y bienestar personal"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué actividades son responsabilidad de los/las Técnicos/as en Cuidados Auxiliares de Enfermería en Atención Primaria?",
+    "options": [
+      "Realizar diagnósticos médicos",
+      "Asistir en procedimientos básicos de cuidado",
+      "Dirigir equipos médicos",
+      "Gestionar recursos financieros"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué significa la coordinación entre niveles asistenciales en el sistema sanitario?",
+    "options": [
+      "Separar completamente la atención primaria y especializada",
+      "Colaborar entre diferentes niveles para garantizar continuidad en los cuidados",
+      "Evitar compartir información entre profesionales",
+      "Limitar la comunicación entre hospitales y centros de salud"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Cuál es el objetivo principal de los cuidados básicos en el ámbito sanitario?",
+    "options": [
+      "Proporcionar atención integral y centrada en el paciente",
+      "Ignorar las necesidades fundamentales del paciente",
+      "Centrarse únicamente en tratamientos avanzados",
+      "Limitar la intervención profesional"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué implica promover los autocuidados en los pacientes?",
+    "options": [
+      "Desalentar la participación activa del paciente en su propio tratamiento",
+
+      "Impedir que el paciente tome decisiones sobre su salud",
+      "Fomentar la independencia y responsabilidad del paciente",
+      "Limitar la educación sanitaria"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué problema psicosocial es común en pacientes hospitalizados?",
+    "options": [
+      "Sensación de total autonomía",
+      "Ausencia de preocupaciones emocionales",
+      "Sentimientos de soledad y ansiedad",
+      "Indiferencia ante el entorno hospitalario"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué estrategia es útil para manejar el estrés en el entorno laboral?",
+    "options": [
+      "Evitar tomar descansos regulares",
+      "Practicar técnicas de relajación y mindfulness",
+      "Incrementar las horas de trabajo sin pausa",
+      "Ignorar las señales de agotamiento"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué rol juegan los/las Técnicos/as en Cuidados Auxiliares de Enfermería en Atención Especializada?",
+    "options": [
+      "Planificar tratamientos médicos complejos",
+      "Apoyar en tareas de cuidado y vigilancia del paciente",
+      "Supervisar directamente a otros profesionales",
+      "Gestionar recursos administrativos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué tipo de comunicación es más efectivo en un ambiente clínico?",
+    "options": [
+      "Comunicación ambigua y confusa",
+      "Comunicación unilateral sin retroalimentación",
+      "Comunicación abierta y clara",
+      "Comunicación limitada a correos electrónicos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué habilidad es crucial para resolver conflictos en un equipo de trabajo?",
+    "options": [
+      "Escuchar activamente y buscar soluciones consensuadas",
+      "Imponer decisiones sin considerar otras perspectivas",
+      "Evitar cualquier tipo de discusión",
+      "Priorizar intereses personales sobre los grupales"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué implica adaptar el entorno hospitalario para mejorar la experiencia del paciente?",
+    "options": [
+      "Ignorar las necesidades emocionales del paciente",
+
+      "Limitar la comunicación con el paciente",
+      "Evitar la participación familiar en el cuidado",
+      "Crear un ambiente acogedor y respetuoso"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué beneficio tiene fomentar la empatía en el equipo de trabajo?",
+    "options": [
+      "Mejora en la comprensión y apoyo mutuo",
+      "Incremento en los conflictos interpersonales",
+      "Disminución de la calidad en los cuidados",
+      "Aislamiento de los profesionales"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué aspecto es clave para mantener la motivación en un equipo de trabajo?",
+    "options": [
+      "Ignorar los logros individuales",
+      "Evitar cualquier tipo de incentivo",
+      "Ofrecer reconocimiento y oportunidades de crecimiento",
+      "Limitar la comunicación entre miembros del equipo"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué desafío enfrentan los equipos multidisciplinarios en la práctica clínica?",
+    "options": [
+      "Superar barreras comunicativas y culturales",
+      "Evitar la colaboración entre profesionales",
+      "Limitar el intercambio de conocimientos",
+      "Ignorar las diferencias de opinión"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué importancia tiene la coordinación entre niveles asistenciales?",
+    "options": [
+      "Garantizar la continuidad y calidad en los cuidados",
+      "Fragmentar la atención del paciente",
+      "Limitar la comunicación entre profesionales",
+      "Evitar compartir información relevante"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué habilidad es esencial para gestionar adecuadamente el estrés laboral?",
+    "options": [
+      "Evitar pedir ayuda cuando sea necesario",
+      "Desarrollar técnicas de autorregulación y tiempo libre",
+      "Incrementar las horas de trabajo sin pausa",
+      "Ignorar los síntomas de agotamiento"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué papel juegan los autocuidados en la recuperación del paciente?",
+    "options": [
+      "Impiden la participación activa del paciente",
+      "Limitan la intervención profesional",
+      "Contribuyen a la autonomía y empoderamiento del paciente",
+      "Descartan la necesidad de cuidados médicos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué impacto tienen los problemas psicosociales en pacientes hospitalizados?",
+    "options": [
+      "Pueden afectar negativamente su bienestar emocional y recuperación",
+      "No tienen ningún efecto en su estado de salud",
+      "Mejoran significativamente su experiencia hospitalaria",
+      "Son irrelevantes en el contexto clínico"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué tipo de comunicación favorece la construcción de consenso en un equipo?",
+    "options": [
+      "Comunicación abierta y participativa",
+      "Comunicación autoritaria y jerárquica",
+      "Comunicación limitada y restrictiva",
+      "Comunicación unilateral sin feedback"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué aspecto es clave para aprender en un equipo de trabajo?",
+    "options": [
+      "Evitar la retroalimentación constructiva",
+      "Limitar el intercambio de conocimientos",
+      "Ignorar errores y fracasos",
+      "Fomentar la colaboración y compartir experiencias"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué importancia tiene la escucha activa en la relación profesional-paciente?",
+    "options": [
+      "Genera indiferencia hacia las emociones del paciente",
+      "Limita la capacidad de respuesta del profesional",
+      "Evita cualquier tipo de comunicación efectiva",
+      "Ayuda a comprender mejor las necesidades y preocupaciones del paciente"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué desafío enfrentan los equipos de cuidados auxiliares en la atención especializada?",
+    "options": [
+      "Evitar la colaboración con otros profesionales",
+      "Adaptarse a protocolos complejos y dinámicos",
+      "Limitar la comunicación con el equipo médico",
+      "Ignorar las necesidades del paciente"
     ],
     "correct": 1
   }
