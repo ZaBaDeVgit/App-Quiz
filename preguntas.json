@@ -7701,5 +7701,356 @@
       "Pueden prolongar la recuperación y afectar su bienestar"
     ],
     "correct": 3
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Cuál es uno de los principales riesgos laborales específicos para los Técnicos/as en Cuidados Auxiliares de Enfermería?",
+    "options": [
+      "Exposición a radiaciones ionizantes",
+      "Trabajo en alturas",
+      "Uso de equipos electrónicos",
+      "Manipulación manual de cargas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué tipo de lesión está asociada principalmente con la manipulación incorrecta de cargas?",
+    "options": [
+      "Lesiones en las extremidades superiores",
+      "Lesiones de espalda baja",
+      "Quemaduras químicas",
+      "Traumatismos craneales"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Cuál es una medida preventiva clave para reducir el riesgo de lesiones durante la manipulación manual de cargas?",
+    "options": [
+      "Usar equipo de protección auditiva",
+      "Flexionar las rodillas y no la espalda",
+      "Evitar el uso de guantes",
+      "Levantar objetos por encima de la cabeza"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo biológico es más común en el entorno sanitario?",
+    "options": [
+      "Infecciones por contacto con animales",
+      "Exposición a sustancias químicas",
+      "Transmisión de enfermedades infecciosas",
+      "Ruido ambiental elevado"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué procedimiento debe seguirse al sufrir una exposición accidental a fluidos biológicos?",
+    "options": [
+      "Ignorar el incidente si parece menor",
+      "Limpiar la zona afectada y notificar el incidente",
+      "Esperar a que aparezcan síntomas antes de actuar",
+      "Continuar con las actividades sin tomar medidas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué factor puede aumentar el riesgo de lesiones por manipulación manual de cargas?",
+    "options": [
+      "Postura ergonómica adecuada",
+      "Peso excesivo de la carga",
+      "Uso de carros de transporte",
+      "Apoyo de colegas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué papel juega la formación en prevención de riesgos laborales?",
+    "options": [
+      "Incrementar los riesgos laborales",
+      "Reducir la concienciación sobre seguridad",
+      "Prevenir accidentes y mejorar la salud laboral",
+      "Aumentar la carga de trabajo"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué dispositivo puede utilizarse para evitar lesiones durante la manipulación de pacientes?",
+    "options": [
+      "Máscaras faciales",
+      "Guantes desechables",
+      "Ascensores para pacientes",
+      "Gafas de protección"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué enfermedad infecciosa es un riesgo biológico relevante en el ámbito sanitario?",
+    "options": [
+      "Enfermedad de Parkinson",
+      "Hepatitis B",
+      "Diabetes mellitus",
+      "Hipertensión arterial"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué estrategia es efectiva para prevenir el estrés laboral en profesionales sanitarios?",
+    "options": [
+      "Incrementar la carga horaria",
+      "Promover pausas regulares y técnicas de relajación",
+      "Evitar la comunicación entre compañeros",
+      "Limitar el acceso a recursos preventivos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo psicosocial es común en el sector sanitario?",
+    "options": [
+      "Estrés ocupacional",
+      "Ausencia de responsabilidad",
+      "Monotonía laboral",
+      "Falta de interacción social"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué medida ayuda a prevenir lesiones por movimientos repetitivos?",
+    "options": [
+      "Realizar estiramientos periódicos",
+      "Ignorar las señales de fatiga muscular",
+      "Mantener posturas fijas prolongadas",
+      "Evitar descansos programados"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué aspecto es crucial para manejar correctamente agujas después de su uso?",
+    "options": [
+      "Dejarlas en superficies accesibles",
+      "Reutilizarlas siempre que sea posible",
+      "Descartarlas en contenedores específicos",
+      "Transportarlas sin protección"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo laboral está relacionado con largas jornadas de pie?",
+    "options": [
+      "Problemas respiratorios",
+      "Disminución de la vista",
+      "Fatiga muscular",
+      "Alteraciones digestivas"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué equipo de protección personal (EPP) es obligatorio al manipular productos químicos?",
+    "options": [
+      "Casco protector",
+      "Guantes y gafas de seguridad",
+      "Botas antideslizantes",
+      "Chaleco reflectante"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué protocolo debe seguirse ante una exposición accidental a sangre contaminada?",
+    "options": [
+      "Lavar la zona afectada con agua y jabón",
+      "No reportar el incidente si parece menor",
+      "Continuar trabajando sin tomar medidas",
+      "Esperar a que surjan síntomas"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué factor contribuye al desarrollo del síndrome del codo de tenista en profesionales sanitarios?",
+    "options": [
+      "Caminar largas distancias",
+      "Levantar pesos ligeros",
+      "Sentarse durante largos periodos",
+      "Movimientos repetitivos de muñeca"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo biológico está asociado con la exposición a agujas usadas?",
+    "options": [
+      "Transmisión de enfermedades infecciosas",
+      "Lesiones por ruido",
+      "Problemas ópticos",
+      "Dermatitis por contacto"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué medida es fundamental para prevenir infecciones cruzadas en el entorno hospitalario?",
+    "options": [
+      "Evitar lavarse las manos",
+
+      "Compartir instrumental sin desinfectar",
+      "Usar mascarillas y guantes cuando sea necesario",
+      "Permitir visitas sin restricciones"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué tipo de riesgo laboral está relacionado con la falta de iluminación adecuada?",
+    "options": [
+      "Caídas y tropiezos",
+      "Problemas auditivos",
+      "Estrés térmico",
+      "Lesiones por vibración"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué factor puede aumentar el riesgo de contracturas musculares en profesionales sanitarios?",
+    "options": [
+      "Mantener posturas ergonómicas",
+
+      "Utilizar dispositivos mecánicos",
+      "Realizar movimientos bruscos o súbitos",
+      "Tomar descansos regulares"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué aspecto es clave para prevenir el acoso laboral?",
+    "options": [
+      "Ignorar conductas inapropiadas",
+      "Fomentar una cultura de respeto y comunicación abierta",
+      "Permitir comportamientos agresivos",
+      "Evitar la implementación de políticas claras"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo específico enfrentan los/las Técnicos/as en Cuidados Auxiliares de Enfermería al trabajar con pacientes agitados?",
+    "options": [
+      "Exposición a radiaciones",
+      "Lesiones por caídas desde alturas",
+      "Contacto con sustancias tóxicas",
+      "Agresiones físicas o verbales"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué medida es efectiva para reducir el estrés laboral en profesionales sanitarios?",
+    "options": [
+      "Evitar la delegación de tareas",
+      "Implementar programas de bienestar emocional",
+      "Incrementar la carga horaria",
+      "Limitar los descansos laborales"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo biológico puede derivarse del contacto directo con heridas infectadas?",
+    "options": [
+      "Lesiones por calor",
+      "Problemas osteomusculares",
+      "Alteraciones metabólicas",
+      "Infecciones bacterianas"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué procedimiento debe realizarse antes de manipular material potencialmente contaminado?",
+    "options": [
+      "Lavarse las manos con agua y jabón",
+      "Usar únicamente guantes sin lavarse las manos",
+      "Evitar el uso de equipo de protección personal",
+      "Guardar el material en áreas comunes"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo está asociado con la exposición prolongada a ruidos intensos?",
+    "options": [
+      "Problemas digestivos",
+      "Lesiones por levantamiento de pesos",
+      "Sordera ocupacional",
+      "Dermatitis por contacto"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué aspecto es crucial para prevenir accidentes relacionados con derrames de líquidos?",
+    "options": [
+      "Dejar los derrames para limpiarse al final del día",
+      "Evitar avisar a otros compañeros",
+      "Limpiar inmediatamente cualquier derrame",
+      "Camuflar los derrames con materiales absorbentes"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 13 -> Prevención de riesgos laborales.",
+    "question": "¿Qué riesgo laboral específico está relacionado con el uso prolongado de pantallas informáticas?",
+    "options": [
+      "Lesiones por manipulación de cargas",
+      "Transmisión de enfermedades infecciosas",
+      "Estrés térmico",
+      "Fatiga visual"
+    ],
+    "correct": 3
   }
 ]
