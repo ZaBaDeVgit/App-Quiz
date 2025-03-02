@@ -7547,10 +7547,159 @@
     "question": "¿Qué desafío enfrentan los equipos de cuidados auxiliares en la atención especializada?",
     "options": [
       "Evitar la colaboración con otros profesionales",
-      "Adaptarse a protocolos complejos y dinámicos",
+
       "Limitar la comunicación con el equipo médico",
+      "Adaptarse a protocolos complejos y dinámicos",
       "Ignorar las necesidades del paciente"
     ],
+    "correct": 2
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué habilidad es fundamental para mejorar la coordinación entre niveles asistenciales?",
+    "options": [
+      "Evitar compartir información relevante",
+
+      "Limitar la participación de los pacientes en decisiones",
+      "Fomentar la comunicación efectiva y oportuna",
+      "Ignorar las necesidades del equipo"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Cuál es un ejemplo claro de autocuidado que se puede fomentar en los pacientes?",
+    "options": [
+      "Dejar que el paciente ignore sus tratamientos",
+      "Enseñar al paciente técnicas de autocuidado como la administración de medicamentos",
+      "Evitar proporcionar información sobre su enfermedad",
+      "Prohibir a los familiares participar en el cuidado"
+    ],
     "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué importancia tiene la empatía en la relación interprofesional?",
+    "options": [
+      "Genera conflictos innecesarios",
+      "Facilita la comprensión mutua y mejora la colaboración",
+      "Impide la resolución de problemas",
+      "Limita la eficiencia en el trabajo en equipo"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué tipo de comunicación se caracteriza por ser directa y clara, sin filtros jerárquicos?",
+    "options": [
+      "Comunicación formal",
+      "Comunicación informal",
+      "Comunicación vertical",
+      "Comunicación horizontal"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué estrategia es útil para manejar el estrés en situaciones críticas con pacientes?",
+    "options": [
+      "Incrementar la carga de trabajo sin pausas",
+
+      "Evitar pedir apoyo a compañeros",
+      "Ignorar las señales de agotamiento emocional",
+      "Practicar técnicas de respiración y relajación"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Cuál es un beneficio clave de los cuidados básicos centrados en el paciente?",
+    "options": [
+      "Aumentan la burocracia en el sistema sanitario",
+      "Ignoran las necesidades emocionales del paciente",
+      "Limitan la intervención profesional",
+      "Mejoran la experiencia y satisfacción del paciente"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué papel juegan los Técnicos/as en Cuidados Auxiliares de Enfermería en la adaptación psicosocial del paciente hospitalizado?",
+    "options": [
+      "Proporcionar apoyo emocional y crear un ambiente acogedor",
+      "Ignorar las necesidades emocionales del paciente",
+      "Evitar cualquier tipo de comunicación con el paciente",
+      "Limitarse únicamente a tareas administrativas"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué habilidad es crucial para resolver conflictos en un equipo multidisciplinar?",
+    "options": [
+      "Imponer decisiones sin considerar otras perspectivas",
+
+      "Evitar cualquier tipo de discusión constructiva",
+      "Escuchar activamente y buscar soluciones consensuadas",
+      "Priorizar intereses personales sobre los grupales"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué aspecto es clave para mantener la motivación en un equipo de trabajo bajo presión?",
+    "options": [
+      "Ignorar los logros individuales y grupales",
+      "Evitar cualquier tipo de incentivo",
+      "Ofrecer reconocimiento y apoyo constante",
+      "Incrementar la carga de trabajo sin descanso"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué desafío enfrentan los equipos de trabajo al implementar autocuidados en pacientes?",
+    "options": [
+      "Superar resistencias y educar al paciente en su propia salud",
+      "Evitar proporcionar educación sanitaria",
+      "Ignorar las capacidades del paciente",
+      "Limitar la autonomía del paciente"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué tipo de comunicación es más adecuado para transmitir instrucciones claras en emergencias?",
+    "options": [
+      "Comunicación ambigua y confusa",
+      "Comunicación breve, directa y precisa",
+      "Comunicación excesivamente detallada",
+      "Comunicación limitada a correos electrónicos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 12 -> Trabajo en equipo y comunicación.",
+    "question": "¿Qué impacto tienen los problemas psicosociales no abordados en pacientes hospitalizados?",
+    "options": [
+      "No tienen ningún efecto en el proceso de curación",
+      "Mejoran significativamente su experiencia hospitalaria",
+      "Son irrelevantes en contextos médicos avanzados",
+      "Pueden prolongar la recuperación y afectar su bienestar"
+    ],
+    "correct": 3
   }
 ]
