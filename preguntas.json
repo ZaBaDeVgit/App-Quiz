@@ -6729,5 +6729,302 @@
       "El acceso a las redes sociales"
     ],
     "correct": 2
+  },
+
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué es la Historia Digital de Salud del ciudadano?",
+    "options": [
+      "Un sistema que almacena datos financieros del paciente",
+      "Un registro digital que contiene información sobre la salud del ciudadano",
+      "Una plataforma para la gestión de citas médicas",
+      "Un programa de formación en salud digital"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Cuál es el objetivo principal de la Base de Datos de Usuarios (BDU)?",
+    "options": [
+      "Gestionar las contraseñas de los empleados",
+      "Controlar el acceso a las instalaciones hospitalarias",
+      "Almacenar y gestionar información sobre los usuarios del sistema sanitario",
+      "Registrar las ventas de medicamentos"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué principio fundamental debe cumplir la confidencialidad en los sistemas de información sanitaria?",
+    "options": [
+      "La transparencia total de los datos",
+      "La protección de los datos personales del paciente",
+      "El acceso libre a la información médica",
+      "La publicación periódica de estadísticas sanitarias"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué documento establece las directrices para humanizar el Sistema Sanitario Público de Andalucía?",
+    "options": [
+      "El Plan de Humanización del Sistema Sanitario Público de Andalucía",
+      "El Protocolo de Atención al Paciente",
+      "El Manual de Gestión de Recursos Humanos",
+      "El Reglamento de Seguridad del Paciente"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué se entiende por un evento adverso en el contexto de la seguridad del paciente?",
+    "options": [
+      "Una mejora en los procesos asistenciales",
+      "Un incidente que puede causar daño al paciente",
+      "Un reconocimiento público a un profesional sanitario",
+      "Una actualización exitosa de un sistema informático"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Cuál es el propósito del sistema de notificaciones y registro de incidencias?",
+    "options": [
+      "Proporcionar entretenimiento a los pacientes",
+      "Documentar y analizar eventos adversos para prevenir futuros incidentes",
+      "Facilitar la comunicación entre departamentos administrativos",
+      "Promocionar servicios sanitarios"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué aspecto aborda principalmente la Estrategia para la Seguridad del Paciente?",
+    "options": [
+      "La reducción de errores médicos y la mejora de la atención al paciente",
+      "La implementación de software de gestión financiera",
+      "La promoción de actividades deportivas para el personal sanitario",
+      "El diseño de mobiliario hospitalario"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué tipo de medidas se pueden adoptar para mejorar la seguridad del paciente tras identificar un evento adverso?",
+    "options": [
+      "Implementar protocolos de actuación y formación continua",
+      "Ignorar el incidente si no hay consecuencias graves",
+      "Rediseñar el logotipo del hospital",
+      "Aumentar el presupuesto destinado a publicidad"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué implica la confidencialidad en el manejo de datos médicos?",
+    "options": [
+      "Compartir información con terceros sin consentimiento",
+      "Proteger la privacidad de los datos del paciente",
+      "Publicar estadísticas generales sobre enfermedades",
+      "Permitir el acceso indiscriminado a historias clínicas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué función cumple la Historia Digital de Salud en relación con el paciente?",
+    "options": [
+      "Ofrecer entretenimiento durante la estancia hospitalaria",
+      "Centralizar toda la información clínica relevante del paciente",
+      "Actuar como una red social para profesionales sanitarios",
+      "Funcionar como un sistema de reservas de vacunas"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿En qué consiste la Base de Datos de Usuarios (BDU) en el ámbito sanitario?",
+    "options": [
+      "Un repositorio de datos biométricos de los empleados",
+      "Un sistema para registrar y gestionar información de los pacientes",
+      "Una plataforma de compras electrónicas",
+      "Un directorio telefónico interno"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué papel juega la confidencialidad en la relación médico-paciente?",
+    "options": [
+     
+      "Facilitar el acceso público a información personal",
+      "Disminuir la calidad de la atención sanitaria",
+      "Fortalecer la confianza mediante la protección de datos sensibles",
+      "Incrementar los costos operativos del sistema sanitario"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué beneficio proporciona el Plan de Humanización del Sistema Sanitario Público de Andalucía?",
+    "options": [
+   
+      "Reducir el número de empleados en hospitales",
+      "Eliminar la necesidad de registros digitales",
+      "Centrarse únicamente en la tecnología médica",
+      "Mejorar la experiencia del paciente en el sistema sanitario"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Cómo se identifican los eventos adversos en el sistema sanitario?",
+    "options": [
+      "Mediante la observación y notificación por parte del personal sanitario",
+      "Solo cuando los pacientes presentan reclamaciones oficiales",
+      "A través de encuestas de satisfacción anuales",
+      "Por casualidad, sin un sistema formal de detección"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué causa común pueden tener los eventos adversos en la atención sanitaria?",
+    "options": [
+      "Errores humanos o fallos en los procesos",
+      "El uso excesivo de tecnología avanzada",
+      "Errores humanos o fallos en los procesos",
+      "La falta de recursos económicos",
+      "La ausencia de pacientes en el hospital"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué medida se puede tomar para evitar futuros eventos adversos?",
+    "options": [
+      "Descartar completamente el uso de tecnología",
+      "Analizar las causas raíz y aplicar mejoras en los procesos",
+      "Dejar que los pacientes decidan sus tratamientos",
+      "Ignorar las recomendaciones de expertos"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué ventajas ofrece la Historia Digital de Salud respecto a las historias clínicas en papel?",
+    "options": [
+      "Mayor accesibilidad y seguridad en el almacenamiento de datos",
+      "Menor precisión en la documentación médica",
+      "Dificultad en compartir información entre profesionales",
+      "Aumento en el tiempo necesario para registrar datos"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué desafío enfrentan los sistemas de información sanitaria en términos de confidencialidad?",
+    "options": [
+   
+      "Evitar el uso de tecnologías modernas",
+      "Desalentar la colaboración entre profesionales",
+      "Reducir la cantidad de información registrada",
+      "Garantizar la protección de datos frente a ciberataques"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué rol tiene el personal sanitario en la prevención de eventos adversos?",
+    "options": [
+      "Reportar incidentes y participar en la mejora de los procesos",
+      "Esperar instrucciones sin actuar proactivamente",
+      "Limitarse únicamente a realizar tareas administrativas",
+      "Evitar cualquier contacto con los pacientes"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué característica distingue a la Base de Datos de Usuarios (BDU) en el contexto sanitario?",
+    "options": [
+    
+      "Su exclusividad para uso externo",
+      "Su capacidad para almacenar grandes volúmenes de datos estructurados",
+      "Su incompatibilidad con otros sistemas informáticos",
+      "Su limitación al almacenamiento de datos financieros"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué impacto tiene la confidencialidad en la calidad de la atención sanitaria?",
+    "options": [
+     
+      "Genera desconfianza entre los pacientes",
+      "Reduce la eficacia de los tratamientos médicos",
+      "Aumenta la confianza y colaboración entre pacientes y profesionales",
+      "Compromete la seguridad del personal sanitario"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué aspecto aborda el Plan de Humanización del Sistema Sanitario Público de Andalucía?",
+    "options": [
+
+      "El aumento de precios en servicios sanitarios",
+      "La eliminación de todos los registros digitales",
+      "La mejora en la relación interpersonal entre profesionales y pacientes",
+      "La reducción de horarios laborales"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué significa la estrategia de seguridad del paciente en cuanto a eventos adversos?",
+    "options": [
+      "Prevenir, detectar y mitigar incidentes que puedan afectar al bienestar del paciente",
+      "Ignorar sistemáticamente cualquier incidente reportado",
+      "Priorizar los intereses económicos por encima de la seguridad",
+      "Depender únicamente de la tecnología para resolver problemas"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "TCAE (TEMARIO ESPECÍFICO)",
+    "topic": "Tema 11 -> Sistemas de Información para la asistencia clínica.",
+    "question": "¿Qué importancia tiene el registro de incidencias en la gestión de la seguridad del paciente?",
+    "options": [
+    
+      "No tiene ninguna utilidad práctica en la atención sanitaria",
+      "Sirve como herramienta clave para analizar patrones y mejorar procesos",
+      "Solo sirve para cumplir requisitos legales sin beneficio real",
+      "Se utiliza únicamente para evaluar el desempeño individual"
+    ],
+    "correct": 1
   }
 ]
