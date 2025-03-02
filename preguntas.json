@@ -8825,18 +8825,7 @@
     ],
     "correct": 1
   },
-  {
-    "category": "TCAE (TEMARIO ESPECÍFICO)",
-    "topic": "Tema 14 -> Conflictos éticos en la práctica profesional.",
-    "question": "¿Qué papel juegan los comités de ética en la resolución de conflictos éticos complejos?",
-    "options": [
-      "Imponen decisiones sin considerar las circunstancias específicas",
-      "Evitan participar en cualquier tipo de discusión o análisis",
-      "Priorizan los intereses económicos por encima de los éticos",
-      "Proporcionan orientación basada en principios éticos y experiencia profesional"
-    ],
-    "correct": 3
-  },
+
 
   {
     "category": "TCAE (TEMARIO ESPECÍFICO)",
